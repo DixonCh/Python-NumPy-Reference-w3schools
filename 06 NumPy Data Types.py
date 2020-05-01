@@ -1,3 +1,4 @@
+'''
 NumPy Data Types
 Data Types in Python
 By default Python have these data types:
@@ -28,26 +29,28 @@ The NumPy array object has a property called dtype that returns the data type of
 
 Example
 Get the data type of an array object:
-
+'''
 import numpy as np
 
 arr = np.array([1, 2, 3, 4])
 
 print(arr.dtype)
+'''
 Example
 Get the data type of an array containing strings:
-
+'''
 import numpy as np
 
 arr = np.array(['apple', 'banana', 'cherry'])
 
 print(arr.dtype)
+'''
 Creating Arrays With a Defined Data Type
 We use the array() function to create arrays, this function can take an optional argument: dtype that allows us to define the expected data type of the array elements:
 
 Example
 Create an array with data type string:
-
+'''
 import numpy as np
 
 arr = np.array([1, 2, 3, 4], dtype='S')
@@ -55,16 +58,17 @@ arr = np.array([1, 2, 3, 4], dtype='S')
 print(arr)
 print(arr.dtype)
 For i, u, f, S and U we can define size as well.
-
+'''
 Example
 Create an array with data type 4 bytes integer:
-
+'''
 import numpy as np
 
 arr = np.array([1, 2, 3, 4], dtype='i4')
 
 print(arr)
 print(arr.dtype)
+'''
 What if a Value Can Not Be Converted?
 If a type is given in which elements can't be casted then NumPy will raise a ValueError.
 
@@ -72,10 +76,11 @@ ValueError: In Python ValueError is raised when the type of passed argument to a
 
 Example
 A non integer string like 'a' can not be converted to integer (will raise an error):
-
+'''
 import numpy as np
 
 arr = np.array(['a', '2', '3'], dtype='i')
+'''
 Converting Data Type on Existing Arrays
 The best way to change the data type of an existing array, is to make a copy of the array with the astype() method.
 
@@ -85,7 +90,7 @@ The data type can be specified using a string, like 'f' for float, 'i' for integ
 
 Example
 Change data type from float to integer by using 'i' as parameter value:
-
+'''
 import numpy as np
 
 arr = np.array([1.1, 2.1, 3.1])
@@ -94,9 +99,10 @@ newarr = arr.astype('i')
 
 print(newarr)
 print(newarr.dtype)
+'''
 Example
 Change data type from float to integer by using int as parameter value:
-
+'''
 import numpy as np
 
 arr = np.array([1.1, 2.1, 3.1])
@@ -105,9 +111,10 @@ newarr = arr.astype(int)
 
 print(newarr)
 print(newarr.dtype)
+'''
 Example
 Change data type from integer to boolean:
-
+'''
 import numpy as np
 
 arr = np.array([1, 0, 3])
