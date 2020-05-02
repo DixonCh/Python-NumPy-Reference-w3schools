@@ -1,4 +1,6 @@
+'''
 NumPy Searching Arrays
+
 Searching Arrays
 You can search an array for a certain value, and return the indexes that get a match.
 
