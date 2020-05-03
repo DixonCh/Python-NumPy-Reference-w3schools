@@ -48,7 +48,7 @@ We can concatenate two 1-D arrays along the second axis which would result in pu
 We pass a sequence of arrays that we want to join to the concatenate() method along with the axis. If axis is not explicitly passed 
 it is taken as 0.
 
-Example
+Example:
 '''
 import numpy as np
 
@@ -65,7 +65,7 @@ Stacking Along Rows:
 
 NumPy provides a helper function: hstack() to stack along rows.
 
-Example
+Example:
 '''
 import numpy as np
 
@@ -78,7 +78,8 @@ arr = np.hstack((arr1, arr2))
 print(arr)
 
 '''
-Stacking Along Columns
+Stacking Along Columns:
+
 NumPy provides a helper function: vstack()  to stack along columns.
 
 Example:
