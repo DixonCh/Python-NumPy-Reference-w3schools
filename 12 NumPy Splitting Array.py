@@ -1,4 +1,4 @@
-NumPy Splitting Array
+'''NumPy Splitting Array
 Splitting NumPy Arrays
 Splitting is reverse operation of Joining.
 
@@ -8,7 +8,7 @@ We use array_split() for splitting arrays, we pass it the array we want to split
 
 Example
 Split the array in 3 parts:
-
+'''
 import numpy as np
 
 arr = np.array([1, 2, 3, 4, 5, 6])
