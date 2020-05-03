@@ -16,13 +16,14 @@ arr = np.array([1, 2, 3, 4, 5, 6])
 newarr = np.array_split(arr, 3)
 
 print(newarr)
+'''
 Note: The return value is an array containing three arrays.
 
 If the array has less elements than required, it will adjust from the end accordingly.
 
 Example
 Split the array in 4 parts:
-
+'''
 import numpy as np
 
 arr = np.array([1, 2, 3, 4, 5, 6])
@@ -30,6 +31,7 @@ arr = np.array([1, 2, 3, 4, 5, 6])
 newarr = np.array_split(arr, 4)
 
 print(newarr)
+'''
 Note: We also have the method split() available but it will not adjust the elements when elements are less in source array for splitting like in example above, array_split() worked properly but split() would fail.
 
 Split Into Arrays
@@ -39,7 +41,7 @@ If you split an array into 3 arrays, you can access them from the result just li
 
 Example
 Access the splitted arrays:
-
+'''
 import numpy as np
 
 arr = np.array([1, 2, 3, 4, 5, 6])
@@ -49,6 +51,7 @@ newarr = np.array_split(arr, 3)
 print(newarr[0])
 print(newarr[1])
 print(newarr[2])
+'''
 Splitting 2-D Arrays
 Use the same syntax when splitting 2-D arrays.
 
@@ -56,7 +59,7 @@ Use the array_split() method, pass in the array you want to split and the number
 
 Example
 Split the 2-D array into three 2-D arrays.
-
+'''
 import numpy as np
 
 arr = np.array([[1, 2], [3, 4], [5, 6], [7, 8], [9, 10], [11, 12]])
@@ -64,13 +67,14 @@ arr = np.array([[1, 2], [3, 4], [5, 6], [7, 8], [9, 10], [11, 12]])
 newarr = np.array_split(arr, 3)
 
 print(newarr)
+'''
 The example above returns three 2-D arrays.
 
 Let's look at another example, this time each element in the 2-D arrays contains 3 elements.
 
 Example
 Split the 2-D array into three 2-D arrays.
-
+'''
 import numpy as np
 
 arr = np.array([[1, 2, 3], [4, 5, 6], [7, 8, 9], [10, 11, 12], [13, 14, 15], [16, 17, 18]])
