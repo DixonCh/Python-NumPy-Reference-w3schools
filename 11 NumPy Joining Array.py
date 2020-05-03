@@ -12,7 +12,8 @@ it is taken as 0.
 
 Example:
 
-Join two arrays
+Join two arrays:
+
 '''
 import numpy as np
 
@@ -57,7 +58,8 @@ arr = np.stack((arr1, arr2), axis=1)
 print(arr)
 
 '''
-Stacking Along Rows
+Stacking Along Rows:
+
 NumPy provides a helper function: hstack() to stack along rows.
 
 Example
@@ -76,7 +78,7 @@ print(arr)
 Stacking Along Columns
 NumPy provides a helper function: vstack()  to stack along columns.
 
-Example
+Example:
 '''
 
 import numpy as np
@@ -89,10 +91,11 @@ arr = np.vstack((arr1, arr2))
 
 print(arr)
 '''
-Stacking Along Height (depth)
+Stacking Along Height (depth):
+
 NumPy provides a helper function: dstack() to stack along height, which is the same as depth.
 
-Example
+Example:
 '''
 import numpy as np
 
