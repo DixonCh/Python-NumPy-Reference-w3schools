@@ -1,3 +1,4 @@
+'''
 Uniform Distribution
 Uniform Distribution
 Used to describe probability where every event has equal chances of occuring.
@@ -14,14 +15,16 @@ size - The shape of the returned array.
 
 Example
 Create a 2x3 uniform distribution sample:
-
+'''
 from numpy import random
 
 x = random.uniform(size=(2, 3))
 
 print(x)
+'''
 Visualization of Uniform Distribution
 Example
+'''
 from numpy import random
 import matplotlib.pyplot as plt
 import seaborn as sns
