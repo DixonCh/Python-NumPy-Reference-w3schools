@@ -35,4 +35,5 @@ import seaborn as sns
 sns.distplot(random.uniform(size=1000), hist=False)
 
 plt.show()
-Result
+
+Result:
