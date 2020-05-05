@@ -1,3 +1,4 @@
+'''
 Chi Square Distribution
 Chi Square Distribution
 Chi Square distribution is used as a basis to verify the hypothesis.
@@ -10,14 +11,16 @@ size - The shape of the returned array.
 
 Example
 Draw out a sample for chi squared distribution with degree of freedom 2 with size 2x3:
-
+'''
 from numpy import random
 
 x = random.chisquare(df=2, size=(2, 3))
 
 print(x)
+'''
 Visualization of Chi Square Distribution
 Example
+'''
 from numpy import random
 import matplotlib.pyplot as plt
 import seaborn as sns
