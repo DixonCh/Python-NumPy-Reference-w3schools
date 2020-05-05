@@ -23,7 +23,8 @@ x = random.uniform(size=(2, 3))
 
 print(x)
 '''
-Visualization of Uniform Distribution
+Visualization of Uniform Distribution:
+
 Example:
 
 '''
