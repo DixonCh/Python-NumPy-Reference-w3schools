@@ -13,7 +13,8 @@ b - upper bound - default 1.0.
 
 size - The shape of the returned array.
 
-Example
+Example:
+
 Create a 2x3 uniform distribution sample:
 '''
 from numpy import random
@@ -23,7 +24,8 @@ x = random.uniform(size=(2, 3))
 print(x)
 '''
 Visualization of Uniform Distribution
-Example
+Example:
+
 '''
 from numpy import random
 import matplotlib.pyplot as plt
