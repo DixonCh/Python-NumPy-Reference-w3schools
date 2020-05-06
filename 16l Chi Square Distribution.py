@@ -9,7 +9,8 @@ df - (degree of freedom).
 
 size - The shape of the returned array.
 
-Example
+Example:
+
 Draw out a sample for chi squared distribution with degree of freedom 2 with size 2x3:
 '''
 from numpy import random
@@ -19,7 +20,8 @@ x = random.chisquare(df=2, size=(2, 3))
 print(x)
 '''
 Visualization of Chi Square Distribution
-Example
+Example:
+
 '''
 from numpy import random
 import matplotlib.pyplot as plt
