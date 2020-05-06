@@ -1,5 +1,6 @@
 '''
-Chi Square Distribution
+Chi Square Distribution:
+
 Chi Square distribution is used as a basis to verify the hypothesis.
 
 It has two parameters:
