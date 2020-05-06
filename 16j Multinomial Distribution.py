@@ -1,5 +1,5 @@
 '''
-Multinomial Distribution
+Multinomial Distribution:
 
 Multinomial distribution is a generalization of binomial distribution.
 
