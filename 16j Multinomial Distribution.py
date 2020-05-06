@@ -13,7 +13,8 @@ pvals - list of probabilties of outcomes (e.g. [1/6, 1/6, 1/6, 1/6, 1/6, 1/6] fo
 
 size - The shape of the returned array.
 
-Example
+Example:
+
 Draw out a sample for dice roll:
 
 from numpy import random
