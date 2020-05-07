@@ -1,7 +1,8 @@
 '''
 NumPy GCD Greatest Common Denominator
 Finding GCD (Greatest Common Denominator)
-The GCD (Greatest Common Denominator), also known as HCF (Highest Common Factor) is the biggest number that is a common factor of both of the numbers.
+The GCD (Greatest Common Denominator), also known as HCF (Highest Common Factor) is the biggest number that is a common factor of both 
+of the numbers.
 
 Example:
 
