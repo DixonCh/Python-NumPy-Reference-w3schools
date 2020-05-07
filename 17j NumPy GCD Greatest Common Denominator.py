@@ -3,7 +3,8 @@ NumPy GCD Greatest Common Denominator
 Finding GCD (Greatest Common Denominator)
 The GCD (Greatest Common Denominator), also known as HCF (Highest Common Factor) is the biggest number that is a common factor of both of the numbers.
 
-Example
+Example:
+
 Find the HCF of the following two numbers:
 '''
 import numpy as np
@@ -24,7 +25,7 @@ The reduce() method will use the ufunc, in this case the gcd() function, on each
 
 Example
 Find the GCD for all of the numbers in following array:
-
+'''
 import numpy as np
 
 arr = np.array([20, 8, 32, 36, 16])
@@ -32,4 +33,4 @@ arr = np.array([20, 8, 32, 36, 16])
 x = np.gcd.reduce(arr)
 
 print(x)
-Returns: 4 because that is the highest number all values can be divided by.
+#Returns: 4 because that is the highest number all values can be divided by.
