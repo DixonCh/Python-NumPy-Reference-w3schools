@@ -1,15 +1,16 @@
-Create Your Own ufunc
+'''Create Your Own ufunc
 How To Create Your Own ufunc
 To create you own ufunc, you have to define a function, like you do with normal functions in Python, then you add it to your NumPy ufunc library with the frompyfunc() method.
 
 The frompyfunc() method takes the following arguments:
-
+'''
 function - the name of the function.
 inputs - the number of input arguments (arrays).
 outputs - the number of output arrays.
+'''
 Example
 Create your own ufunc for addition:
-
+'''
 import numpy as np
 
 def myadd(x, y):
@@ -18,6 +19,8 @@ def myadd(x, y):
 myadd = np.frompyfunc(myadd, 2, 1)
 
 print(myadd([1, 2, 3, 4], [5, 6, 7, 8]))
+
+'''
 Check if a Function is a ufunc
 Check the type of a function to check if it is a ufunc or not.
 
@@ -25,10 +28,12 @@ A ufunc should return <class 'numpy.ufunc'>.
 
 Example
 Check if a function is a ufunc:
-
+'''
 import numpy as np
 
 print(type(np.add))
+
+'''
 If it is not a ufunc, it will return another type, like this built-in NumPy function for joining two or more arrays:
 
 Example
