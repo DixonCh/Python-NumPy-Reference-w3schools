@@ -43,8 +43,10 @@ x = np.deg2rad(arr)
 
 print(x)
 '''
-Radians to Degrees
-Example
+Radians to Degrees:
+
+Example:
+
 Convert all of the values in following array arr to degrees:
 '''
 import numpy as np
@@ -55,12 +57,14 @@ x = np.rad2deg(arr)
 
 print(x)
 '''
-Finding Angles
+Finding Angles:
+
 Finding angles from values of sine, cos, tan. E.g. sin, cos and tan inverse (arcsin, arccos, arctan).
 
 NumPy provides ufuncs arcsin(), arccos() and arctan() that produce radian values for corresponding sin, cos and tan values given.
 
-Example
+Example:
+
 Find the angle of 1.0:
 '''
 import numpy as np
