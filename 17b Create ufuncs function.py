@@ -1,6 +1,7 @@
 '''Create Your Own ufunc
 How To Create Your Own ufunc
-To create you own ufunc, you have to define a function, like you do with normal functions in Python, then you add it to your NumPy ufunc library with the frompyfunc() method.
+To create you own ufunc, you have to define a function, like you do with normal functions in Python, then you add it to your NumPy 
+ufunc library with the frompyfunc() method.
 
 The frompyfunc() method takes the following arguments:
 '''
