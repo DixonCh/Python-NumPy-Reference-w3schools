@@ -1,5 +1,7 @@
 '''Seaborn
-Visualize Distributions With Seaborn
+
+Visualize Distributions With Seaborn:
+
 Seaborn is a library that uses Matplotlib underneath to plot graphs. It will be used to visualize random distributions.
 
 Install Seaborn.
