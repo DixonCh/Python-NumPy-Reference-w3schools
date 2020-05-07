@@ -38,23 +38,27 @@ If it is not a ufunc, it will return another type, like this built-in NumPy func
 
 Example
 Check the type of another function: concatenate():
-
+'''
 import numpy as np
 
 print(type(np.concatenate))
+
+'''
 If the function is not recognized at all, it will return an error:
 
 Example
 Check the type of something that does not exist. This will produce an error:
-
+'''
 import numpy as np
 
 print(type(np.blahblah))
+
+'''
 To test if the function is a ufunc in an if statement, use the numpy.ufunc value (or np.ufunc if you use np as an alias for numpy):
 
 Example
 Use an if statement to check if the function is a ufunc or not:
-
+'''
 import numpy as np
 
 if type(np.add) == np.ufunc:
