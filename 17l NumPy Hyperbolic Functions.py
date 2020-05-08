@@ -5,7 +5,8 @@ Hyperbolic Functions:
 
 NumPy provides the ufuncs sinh(), cosh() and tanh() that take values in radians and produce the corresponding sinh, cosh and tanh values..
 
-Example
+Example:
+
 Find sinh value of PI/2:
 '''
 import numpy as np
@@ -25,12 +26,14 @@ x = np.cosh(arr)
 
 print(x)
 '''
-Finding Angles
+Finding Angles:
+
 Finding angles from values of hyperbolic sine, cos, tan. E.g. sinh, cosh and tanh inverse (arcsinh, arccosh, arctanh).
 
 Numpy provides ufuncs arcsinh(), arccosh() and arctanh() that produce radian values for corresponding sinh, cosh and tanh values given.
 
-Example
+Example:
+
 Find the angle of 1.0:
 '''
 
