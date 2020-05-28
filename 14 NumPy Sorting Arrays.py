@@ -6,7 +6,8 @@ Ordered sequence is any sequence that has an order corresponding to elements, li
 
 The NumPy ndarray object has a function called sort(), that will sort a specified array.
 
-Example
+Example:
+
 Sort the array:
 '''
 import numpy as np
@@ -19,7 +20,8 @@ Note: This method returns a copy of the array, leaving the original array unchan
 
 You can also sort arrays of strings, or any other data type:
 
-Example
+Example:
+
 Sort the array alphabetically:
 '''
 
