@@ -25,7 +25,8 @@ print(x)
 
 Visualization of Binomial Distribution:
 
-Example
+Example:
+
 from numpy import random
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -39,7 +40,8 @@ Result
 Difference Between Normal and Binomial Distribution
 The main difference is that normal distribution is continous whereas binomial is discrete, but if there are enough data points it will be quite similar to normal distribution with certain loc and scale.
 
-Example
+Example:
+
 from numpy import random
 import matplotlib.pyplot as plt
 import seaborn as sns
