@@ -1,5 +1,5 @@
-Binomial Distribution
-Binomial Distribution
+Binomial Distribution:
+
 Binomial Distribution is a Discrete Distribution.
 
 It describes the outcome of binary scenarios, e.g. toss of a coin, it will either be head or tails.
