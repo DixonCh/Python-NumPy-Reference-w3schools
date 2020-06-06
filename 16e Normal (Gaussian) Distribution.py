@@ -1,5 +1,7 @@
-Normal (Gaussian) Distribution
-Normal Distribution
+Normal (Gaussian) Distribution:
+
+Normal Distribution:
+
 The Normal Distribution is one of the most important distributions.
 
 It is also called the Gaussian Distribution after the German mathematician Carl Friedrich Gauss.
