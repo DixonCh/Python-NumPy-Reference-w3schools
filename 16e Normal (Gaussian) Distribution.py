@@ -18,7 +18,8 @@ scale - (Standard Deviation) how flat the graph distribution should be.
 
 size - The shape of the returned array.
 
-Example
+Example:
+
 Generate a random normal distribution of size 2x3:
 
 from numpy import random
@@ -26,7 +27,9 @@ from numpy import random
 x = random.normal(size=(2, 3))
 
 print(x)
-Example
+
+Example:
+
 Generate a random normal distribution of size 2x3 with mean at 1 and standard deviation of 2:
 
 from numpy import random
