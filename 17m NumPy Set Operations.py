@@ -12,7 +12,8 @@ Create Sets in NumPy:
 We can use NumPy's unique() method to find unique elements from any array. E.g. create a set array, but remember that the set arrays 
 should only be 1-D arrays.
 
-Example
+Example:
+
 Convert following array with repeated elements to a set:
 '''
 import numpy as np
@@ -23,10 +24,12 @@ x = np.unique(arr)
 
 print(x)
 '''
-Finding Union
+Finding Union:
+
 To find the unique values of two arrays, use the union1d() method.
 
-Example
+Example:
+
 Find union of the following two set arrays:
 '''
 import numpy as np
