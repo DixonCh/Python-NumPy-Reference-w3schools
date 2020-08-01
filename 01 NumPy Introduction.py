@@ -1,5 +1,6 @@
 '''
-NumPy Introduction
+NumPy Introduction:
+
 What is NumPy?
 NumPy is a python library used for working with arrays.
 
