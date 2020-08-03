@@ -1,6 +1,8 @@
 '''
-NumPy Getting Started
-Installation of NumPy
+NumPy Getting Started:
+
+Installation of NumPy:
+
 If you have Python and PIP already installed on a system, then installation of NumPy is very easy.
 
 Install it using this command:
