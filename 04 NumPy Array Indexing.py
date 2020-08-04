@@ -1,5 +1,7 @@
-NumPy Array Indexing
-Access Array Elements
+NumPy Array Indexing:
+  
+Access Array Elements:
+  
 Array indexing is the same as accessing an array element.
 
 You can access an array element by referring to its index number.
@@ -14,7 +16,9 @@ import numpy as np
 arr = np.array([1, 2, 3, 4])
 
 print(arr[0])
-Example
+
+Example:
+  
 Get the second element from the following array.
 
 import numpy as np
