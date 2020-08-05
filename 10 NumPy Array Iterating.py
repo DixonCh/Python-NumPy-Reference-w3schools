@@ -8,7 +8,8 @@ As we deal with multi-dimensional arrays in numpy, we can do this using basic fo
 
 If we iterate on a 1-D array it will go through each element one by one.
 
-Example
+Example:
+
 Iterate on the elements of the following 1-D array:
 '''
 
@@ -19,10 +20,12 @@ arr = np.array([1, 2, 3])
 for x in arr:
   print(x)
   '''
-Iterating 2-D Arrays
+Iterating 2-D Arrays:
+
 In a 2-D array it will go through all the rows.
 
-Example
+Example:
+
 Iterate on the elements of the following 2-D array:
 '''
 import numpy as np
