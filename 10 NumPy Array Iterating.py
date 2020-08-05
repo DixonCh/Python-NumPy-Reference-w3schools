@@ -52,10 +52,12 @@ for x in arr:
     print(y)
     
   '''
-Iterating 3-D Arrays
+Iterating 3-D Arrays:
+
 In a 3-D array it will go through all the 2-D arrays.
 
-Example
+Example:
+
 Iterate on the elements of the following 3-D array:
 '''
   
@@ -69,7 +71,8 @@ for x in arr:
   '''
 To return the actual values, the scalars, we have to iterate the arrays in each dimension.
 
-Example
+Example:
+
 Iterate down to the scalars:
 '''
   
