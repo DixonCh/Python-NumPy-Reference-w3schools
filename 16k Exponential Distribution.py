@@ -1,6 +1,6 @@
 '''
-Exponential Distribution
-Exponential Distribution
+Exponential Distribution:
+
 Exponential distribution is used for describing time till next event e.g. failure/success etc.
 
 It has two parameters:
