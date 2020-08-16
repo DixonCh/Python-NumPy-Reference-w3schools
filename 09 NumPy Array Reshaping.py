@@ -1,6 +1,8 @@
 '''
-NumPy Array Reshaping
-Reshaping arrays
+NumPy Array Reshaping:
+
+Reshaping arrays:
+
 Reshaping means changing the shape of an array.
 
 The shape of an array is the number of elements in each dimension.
