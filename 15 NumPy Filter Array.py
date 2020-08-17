@@ -1,5 +1,7 @@
-NumPy Filter Array
-Filtering Arrays
+NumPy Filter Array:
+
+Filtering Arrays:
+  
 Getting some elements out of an existing array and creating a new array out of them is called filtering.
 
 In NumPy, you filter an array using a boolean index list.
