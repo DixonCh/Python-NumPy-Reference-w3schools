@@ -1,6 +1,8 @@
 '''
-NumPy Data Types
-Data Types in Python
+NumPy Data Types:
+
+Data Types in Python:
+
 By default Python have these data types:
 
 strings - used to represent text data, the text is given under quote marks. eg. "ABCD"
@@ -8,7 +10,9 @@ integer - used to represent integer numbers. eg. -1, -2, -3
 float - used to represent real numbers. eg. 1.2, 42.42
 boolean - used to represent True or False.
 complex - used to represent a number in complex plain. eg. 1.0 + 2.0j, 1.5 + 2.5j
+
 Data Types in NumPy
+
 NumPy has some extra data types, and refer to data types with one character, like i for integers, u for unsigned integers etc.
 
 Below is a list of all data types in NumPy and the characters used to represent them.
