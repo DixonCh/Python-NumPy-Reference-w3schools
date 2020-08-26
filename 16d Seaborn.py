@@ -1,4 +1,4 @@
-'''Seaborn
+'''Seaborn:
 
 Visualize Distributions With Seaborn:
 
@@ -11,7 +11,9 @@ C:\Users\Your Name>pip install seaborn
 If you use Jupyter, install Seaborn using this command:
 
 C:\Users\Your Name>!pip install seaborn
-Distplots
+
+Distplots:
+
 Distplot stands for distribution plot, it takes as input an array and plots a curve corresponding to the distribution of points in the 
 array.
 '''
