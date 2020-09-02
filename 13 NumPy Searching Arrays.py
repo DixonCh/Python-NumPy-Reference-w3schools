@@ -49,12 +49,15 @@ x = np.where(arr%2 == 1)
 
 print(x)
 '''
-Search Sorted
-There is a method called searchsorted() which performs a binary search in the array, and returns the index where the specified value would be inserted to maintain the search order.
+Search Sorted:
+
+There is a method called searchsorted() which performs a binary search in the array, and returns the index where the specified value would be inserted to maintain the 
+search order.
 
 The searchsorted() method is assumed to be used on sorted arrays.
 
-Example
+Example:
+
 Find the indexes where the value 7 should be inserted:
 '''
 
@@ -73,7 +76,8 @@ The method starts the search from the left and returns the first index where the
 Search From the Right Side
 By default the left most index is returned, but we can give side='right' to return the right most index instead.
 
-Example
+Example:
+
 Find the indexes where the value 7 should be inserted, starting from the right:
 '''
 import numpy as np
