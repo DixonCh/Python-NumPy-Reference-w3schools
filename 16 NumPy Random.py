@@ -1,7 +1,9 @@
 #What is a Random Number?
+
 #Random number does NOT mean a different number every time. Random means something that can not be predicted logically.
 
 #Pseudo Random and True Random.
+
 #Computers work on programs, and programs are definitive set of instructions. So it means there must be some algorithm to generate a 
 #random number as well.
 
@@ -18,10 +20,11 @@ We do not need truly random numbers, unless its related to security (e.g. encryp
 
 In this tutorial we will be using pseudo random numbers.
 
-Generate Random Number
+Generate Random Number:
+
 NumPy offers the random module to work with random numbers.
 
-Example
+Example:
 
 Generate a random integer from 0 to 100:
 '''
@@ -36,7 +39,8 @@ print(x)
 Generate Random Float
 The random module's rand() method returns a random float between 0 and 1.
 
-Example
+Example:
+
 Generate a random float from 0 to 1:
 '''
 from numpy import random
