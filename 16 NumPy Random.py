@@ -55,7 +55,8 @@ In NumPy we work with arrays, and you can use the two methods from the above exa
 Integers
 The randint() method takes a size parameter where you can specify the shape of an array.
 
-Example
+Example:
+
 '''
 Generate a 1-D array containing 5 random integers from 0 to 100:
 
@@ -65,7 +66,8 @@ x=random.randint(100, size=(5))
 
 print(x)
 '''
-Example
+Example:
+
 Generate a 2-D array with 3 rows, each row containing 5 random integers from 0 to 100:
 '''
 from numpy import random
@@ -74,10 +76,12 @@ x = random.randint(100, size=(3, 5))
 
 print(x)
 '''
-Floats
+Floats:
+
 The rand() method also allows you to specify the shape of the array.
 
-Example
+Example:
+
 Generate a 1-D array containing 5 random floats:
 '''
 from numpy import random
