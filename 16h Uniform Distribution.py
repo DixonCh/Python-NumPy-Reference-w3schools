@@ -1,6 +1,6 @@
 '''
-Uniform Distribution
-Uniform Distribution
+Uniform Distribution:
+
 Used to describe probability where every event has equal chances of occuring.
 
 E.g. Generation of random numbers.
