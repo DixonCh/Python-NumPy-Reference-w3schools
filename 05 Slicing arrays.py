@@ -24,7 +24,8 @@ print(arr[1:5])
 '''
 Note: The result includes the start index, but excludes the end index.
 
-Example
+Example:
+
 Slice elements from index 4 to the end of the array:
 '''
 import numpy as np
@@ -58,7 +59,8 @@ print(arr[-3:-1])
 STEP
 Use the step value to determine the step of the slicing:
 
-Example
+Example:
+
 Return every other element from index 1 to index 5:
 '''
 import numpy as np
