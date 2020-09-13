@@ -1,5 +1,6 @@
 '''
-Slicing arrays
+Slicing arrays:
+
 Slicing in python means taking elements from one given index to another given index.
 
 We pass slice instead of index like this: [start:end].
