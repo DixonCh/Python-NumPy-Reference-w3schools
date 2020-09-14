@@ -6,7 +6,8 @@ The shape of an array is the number of elements in each dimension.
 Get the Shape of an Array
 NumPy arrays have an attribute called shape that returns a tuple with each index having the number of corresponding elements.
 
-Example
+Example:
+
 Print the shape of a 2-D array:
 '''
 
@@ -18,7 +19,8 @@ print(arr.shape)
 '''
 The example above returns (2, 4), which means that the array has 2 dimensions, and each dimension has 4 elements.
 
-Example
+Example:
+
 Create an array with 5 dimensions using ndmin using a vector with values 1,2,3,4 and verify that last dimension has value 4:
 '''
 import numpy as np
