@@ -1,9 +1,12 @@
 '''
-NumPy Array Shape
-Shape of an Array
+NumPy Array Shape:
+
+Shape of an Array:
+
 The shape of an array is the number of elements in each dimension.
 
-Get the Shape of an Array
+Get the Shape of an Array:
+
 NumPy arrays have an attribute called shape that returns a tuple with each index having the number of corresponding elements.
 
 Example:
