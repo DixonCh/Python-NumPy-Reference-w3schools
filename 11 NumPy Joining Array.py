@@ -109,3 +109,6 @@ arr2 = np.array([4, 5, 6])
 arr = np.dstack((arr1, arr2))
 
 print(arr)
+'''
+Output:
+  This gives the output of 1 2 3 4 5 6
