@@ -24,7 +24,8 @@ Note: The return value is an array containing three arrays.
 
 If the array has less elements than required, it will adjust from the end accordingly.
 
-Example
+Example:
+
 Split the array in 4 parts:
 '''
 import numpy as np
