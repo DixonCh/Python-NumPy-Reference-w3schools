@@ -1,12 +1,15 @@
-'''NumPy Splitting Array
-Splitting NumPy Arrays
+'''NumPy Splitting Array:
+
+Splitting NumPy Arrays:
+
 Splitting is reverse operation of Joining.
 
 Joining merges multiple arrays into one and Splitting breaks one array into multiple.
 
 We use array_split() for splitting arrays, we pass it the array we want to split and the number of splits.
 
-Example
+Example:
+
 Split the array in 3 parts:
 '''
 import numpy as np
