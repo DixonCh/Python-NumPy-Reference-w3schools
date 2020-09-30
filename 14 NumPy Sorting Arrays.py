@@ -24,7 +24,6 @@ You can also sort arrays of strings, or any other data type:
 
 Example:
 
-
 Sort the array alphabetically:
 '''
 
@@ -38,6 +37,7 @@ Example:
 
 Sort a boolean array:
 '''
+
 import numpy as np
 
 arr = np.array([True, False, True])
