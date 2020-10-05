@@ -12,13 +12,14 @@ C:\Users\Your Name>pip install numpy
 If this command fails, then use a python distribution that already has NumPy installed like, Anaconda, Spyder etc.
 
 '''
-Import NumPy
+Import NumPy:
+
 Once NumPy is installed, import it in your applications by adding the import keyword:
 
 import numpy
 Now Numpy is imported and ready to use.
 
-Example
+Example:
 '''
 import numpy
 
