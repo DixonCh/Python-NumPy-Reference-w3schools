@@ -11,7 +11,7 @@ float - used to represent real numbers. eg. 1.2, 42.42
 boolean - used to represent True or False.
 complex - used to represent a number in complex plain. eg. 1.0 + 2.0j, 1.5 + 2.5j
 
-Data Types in NumPy
+Data Types in NumPy:
 
 NumPy has some extra data types, and refer to data types with one character, like i for integers, u for unsigned integers etc.
 
@@ -31,7 +31,8 @@ V - fixed chunk of memory for other type ( void )
 Checking the Data Type of an Array
 The NumPy array object has a property called dtype that returns the data type of the array:
 
-Example
+Example:
+
 Get the data type of an array object:
 '''
 import numpy as np
@@ -40,7 +41,8 @@ arr = np.array([1, 2, 3, 4])
 
 print(arr.dtype)
 '''
-Example
+Example:
+
 Get the data type of an array containing strings:
 '''
 import numpy as np
