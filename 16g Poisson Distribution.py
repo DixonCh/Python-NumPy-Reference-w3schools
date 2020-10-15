@@ -10,7 +10,8 @@ lam - rate or known number of occurences e.g. 2 for above problem.
 
 size - The shape of the returned array.
 
-Example
+Example:
+  
 Generate a random 1x10 distribution for occurence 2:
 
 from numpy import random
@@ -18,8 +19,11 @@ from numpy import random
 x = random.poisson(lam=2, size=10)
 
 print(x)
-Visualization of Poisson Distribution
-Example
+
+Visualization of Poisson Distribution:
+  
+Example:
+  
 from numpy import random
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -27,10 +31,11 @@ import seaborn as sns
 sns.distplot(random.poisson(lam=2, size=1000), kde=False)
 
 plt.show()
+
 Result
 
-
-Difference Between Normal and Poisson Distribution
+Difference Between Normal and Poisson Distribution:
+  
 Normal distribution is continous whereas poisson is discrete.
 
 But we can see that similar to binomial for a large enough poisson distribution it will become similar to normal distribution with certain std dev and mean.
