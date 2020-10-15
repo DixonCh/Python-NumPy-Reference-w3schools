@@ -22,7 +22,8 @@ type(): This built-in Python function tells us the type of the object passed to 
 
 To create an ndarray, we can pass a list, tuple or any array-like object into the array() method, and it will be converted into an ndarray:
 
-Example
+Example:
+
 Use a tuple to create a NumPy array:
 '''
 import numpy as np
