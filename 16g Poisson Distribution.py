@@ -40,7 +40,8 @@ Normal distribution is continous whereas poisson is discrete.
 
 But we can see that similar to binomial for a large enough poisson distribution it will become similar to normal distribution with certain std dev and mean.
 
-Example
+Example:
+  
 from numpy import random
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -49,10 +50,11 @@ sns.distplot(random.normal(loc=50, scale=7, size=1000), hist=False, label='norma
 sns.distplot(random.poisson(lam=50, size=1000), hist=False, label='poisson')
 
 plt.show()
+
 Result
 
-
-Difference Between Poisson and Binomial Distribution
+Difference Between Poisson and Binomial Distribution:
+  
 The difference is very subtle it is that, binomial distribution is for discrete trials, whereas poisson distribution is for continuous trials.
 
 But for very large n and near-zero p binomial distribution is near identical to poisson distribution such that n * p is nearly equal to lam.
