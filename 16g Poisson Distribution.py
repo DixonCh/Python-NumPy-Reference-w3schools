@@ -32,7 +32,7 @@ sns.distplot(random.poisson(lam=2, size=1000), kde=False)
 
 plt.show()
 
-Result
+Result:
 
 Difference Between Normal and Poisson Distribution:
   
