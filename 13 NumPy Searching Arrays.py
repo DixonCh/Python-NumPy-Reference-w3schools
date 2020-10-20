@@ -38,7 +38,8 @@ x = np.where(arr%2 == 0)
 
 print(x)
 '''
-Example
+Example:
+
 Find the indexes where the values are odd:
 '''
 import numpy as np
@@ -96,7 +97,8 @@ The method starts the search from the right and returns the first index where th
 Multiple Values
 To search for more than one value, use an array with the specified values.
 
-Example
+Example:
+
 Find the indexes where the values 2, 4, and 6 should be inserted:
 '''
 import numpy as np
