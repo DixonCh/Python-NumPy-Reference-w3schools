@@ -65,7 +65,8 @@ Every NumPy array has the attribute base that returns None if the array owns the
 
 Otherwise, the base  attribute refers to the original object.
 
-Example
+Example:
+
 Print the value of the base attribute to check if an array owns it's data or not:
 '''
 
