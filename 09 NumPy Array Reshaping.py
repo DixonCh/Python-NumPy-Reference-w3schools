@@ -41,12 +41,14 @@ newarr = arr.reshape(2, 3, 2)
 print(newarr)
 
 '''
-Can We Reshape Into any Shape?
+Can We Reshape Into any Shape?:
+
 Yes, as long as the elements required for reshaping are equal in both shapes.
 
 We can reshape an 8 elements 1D array into 4 elements in 2 rows 2D array but we cannot reshape it into a 3 elements 3 rows 2D array as that would require 3x3 = 9 elements.
 
-Example
+Example:
+
 Try converting 1D array with 8 elements to a 2D array with 3 elements in each dimension (will raise an error):
 '''
 
@@ -60,7 +62,9 @@ print(newarr)
 
 '''
 Returns Copy or View?
-Example
+
+Example:
+
 Check if the returned array is a copy or a view:
 '''
 
@@ -73,7 +77,8 @@ print(arr.reshape(2, 4).base)
 '''
 The example above returns the original array, so it is a view.
 
-Unknown Dimension
+Unknown Dimension:
+
 You are allowed to have one "unknown" dimension.
 
 Meaning that you do not have to specify an exact number for one of the dimensions in the reshape method.
