@@ -40,7 +40,8 @@ If we iterate on a n-D array it will go through n-1th dimension one by one.
 
 To return the actual values, the scalars, we have to iterate the arrays in each dimension.
 
-Example
+Example:
+
 Iterate on each scalar element of the 2-D array:
 '''
 import numpy as np
@@ -91,7 +92,8 @@ The function nditer() is a helping function that can be used from very basic to 
 Iterating on Each Scalar Element
 In basic for loops, iterating through each scalar of an array we need to use n for loops which can be difficult to write for arrays with very high dimensionality.
 
-Example
+Example:
+
 Iterate through the following 3-D array:
 '''
 import numpy as np
