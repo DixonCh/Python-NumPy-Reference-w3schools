@@ -44,7 +44,8 @@ arr = np.array([True, False, True])
 
 print(np.sort(arr))
 '''
-Sorting a 2-D Array
+Sorting a 2-D Array:
+
 If you use the sort() method on a 2-D array, both arrays will be sorted:
 
 Example:
