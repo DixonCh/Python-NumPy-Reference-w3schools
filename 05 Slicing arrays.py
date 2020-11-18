@@ -13,7 +13,8 @@ If we don't pass end its considered length of array in that dimension
 
 If we don't pass step its considered 1
 
-Example
+Example:
+
 Slice elements from index 1 to index 5 from the following array:
 '''
 import numpy as np
@@ -34,7 +35,8 @@ arr = np.array([1, 2, 3, 4, 5, 6, 7])
 
 print(arr[4:])
 '''
-Example
+Example:
+
 Slice elements from the beginning to index 4 (not included):
 '''
 import numpy as np
