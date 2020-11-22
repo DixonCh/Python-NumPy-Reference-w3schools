@@ -43,7 +43,8 @@ The return value of the array_split() method is an array containing each of the 
 
 If you split an array into 3 arrays, you can access them from the result just like any array element:
 
-Example
+Example:
+
 Access the splitted arrays:
 '''
 import numpy as np
@@ -56,7 +57,8 @@ print(newarr[0])
 print(newarr[1])
 print(newarr[2])
 '''
-Splitting 2-D Arrays
+Splitting 2-D Arrays:
+
 Use the same syntax when splitting 2-D arrays.
 
 Use the array_split() method, pass in the array you want to split and the number of splits you want to do.
