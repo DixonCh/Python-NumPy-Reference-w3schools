@@ -36,7 +36,8 @@ x = random.randint(100)
 print(x)
 
 '''
-Generate Random Float
+Generate Random Float:
+
 The random module's rand() method returns a random float between 0 and 1.
 
 Example:
@@ -49,10 +50,12 @@ x = random.rand()
 
 print(x)
 '''
-Generate Random Array
+Generate Random Array:
+
 In NumPy we work with arrays, and you can use the two methods from the above examples to make random arrays.
 
-Integers
+Integers:
+
 The randint() method takes a size parameter where you can specify the shape of an array.
 
 Example:
