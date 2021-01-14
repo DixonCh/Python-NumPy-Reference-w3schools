@@ -27,7 +27,7 @@ Visualization of Zipf Distribution:
 
 Sample 1000 points but plotting only ones with value < 10 for more meaningful chart.
 
-Example
+Example:
 '''
 from numpy import random
 import matplotlib.pyplot as plt
