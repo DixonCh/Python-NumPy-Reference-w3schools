@@ -10,7 +10,9 @@ The shape of an array is the number of elements in each dimension.
 By reshaping we can add or remove dimensions or change number of elements in each dimension.
 
 Reshape From 1-D to 2-D
-Example
+
+Example:
+
 Convert the following 1-D array with 12 elements into a 2-D array.
 
 The outermost dimension will have 4 arrays, each with 3 elements:
@@ -26,7 +28,9 @@ print(newarr)
 
 '''
 Reshape From 1-D to 3-D
-Example
+
+Example:
+
 Convert the following 1-D array with 12 elements into a 3-D array.
 
 The outermost dimension will have 2 arrays that contains 3 arrays, each with 2 elements:
