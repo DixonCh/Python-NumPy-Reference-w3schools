@@ -55,7 +55,8 @@ newarr = arr[filter_arr]
 print(filter_arr)
 print(newarr)
 
-Example
+Example:
+  
 Create a filter array that will return only even elements from the original array:
 
 import numpy as np
@@ -63,6 +64,7 @@ import numpy as np
 arr = np.array([1, 2, 3, 4, 5, 6, 7])
 
 # Create an empty list
+
 filter_arr = []
 
 # go through each element in arr
@@ -77,7 +79,9 @@ newarr = arr[filter_arr]
 
 print(filter_arr)
 print(newarr)
-Creating Filter Directly From Array
+
+Creating Filter Directly From Array:
+  
 The above example is quite a common task in NumPy and NumPy provides a nice way to tackle it.
 
 We can directly substitute the array instead of the iterable variable in our condition and it will work just as we expect it to.
