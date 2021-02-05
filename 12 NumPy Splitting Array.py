@@ -36,9 +36,11 @@ newarr = np.array_split(arr, 4)
 
 print(newarr)
 '''
-Note: We also have the method split() available but it will not adjust the elements when elements are less in source array for splitting like in example above, array_split() worked properly but split() would fail.
+Note: We also have the method split() available but it will not adjust the elements when elements are less in source array for splitting like in example above, array_split()
+worked properly but split() would fail.
 
-Split Into Arrays
+Split Into Arrays:
+
 The return value of the array_split() method is an array containing each of the split as an array.
 
 If you split an array into 3 arrays, you can access them from the result just like any array element:
@@ -63,7 +65,8 @@ Use the same syntax when splitting 2-D arrays.
 
 Use the array_split() method, pass in the array you want to split and the number of splits you want to do.
 
-Example
+Example:
+
 Split the 2-D array into three 2-D arrays.
 '''
 import numpy as np
@@ -78,7 +81,8 @@ The example above returns three 2-D arrays.
 
 Let's look at another example, this time each element in the 2-D arrays contains 3 elements.
 
-Example
+Example:
+
 Split the 2-D array into three 2-D arrays.
 '''
 import numpy as np
