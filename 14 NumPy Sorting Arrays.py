@@ -1,4 +1,4 @@
-'''NumPy Sorting Arrays
+'''NumPy Sorting Arrays:
 
 Sorting Arrays:
 
