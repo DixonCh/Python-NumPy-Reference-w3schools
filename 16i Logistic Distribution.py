@@ -1,5 +1,5 @@
-Logistic Distribution
-Logistic Distribution
+Logistic Distribution:
+  
 Logistic Distribution is used to describe growth.
 
 Used extensively in machine learning in logistic regression, neural networks etc.
