@@ -89,7 +89,8 @@ Meaning that you do not have to specify an exact number for one of the dimension
 
 Pass -1 as the value, and NumPy will calculate this number for you.
 
-Example
+Example:
+
 Convert 1D array with 8 elements to 3D array with 2x2 elements:
 ''' 
 import numpy as np
@@ -102,12 +103,14 @@ print(newarr)
 '''
 Note: We can not pass -1 to more than one dimension.
 
-Flattening the arrays
+Flattening the arrays:
+
 Flattening array means converting a multidimensional array into a 1D array.
 
 We can use reshape(-1) to do this.
 
-Example
+Example:
+
 Convert the array into a 1D array:
 '''
 import numpy as np
