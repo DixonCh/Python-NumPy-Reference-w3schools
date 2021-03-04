@@ -28,7 +28,9 @@ O - object
 S - string
 U - unicode string
 V - fixed chunk of memory for other type ( void )
-Checking the Data Type of an Array
+
+Checking the Data Type of an Array:
+
 The NumPy array object has a property called dtype that returns the data type of the array:
 
 Example:
@@ -54,7 +56,8 @@ print(arr.dtype)
 Creating Arrays With a Defined Data Type
 We use the array() function to create arrays, this function can take an optional argument: dtype that allows us to define the expected data type of the array elements:
 
-Example
+Example:
+
 Create an array with data type string:
 '''
 import numpy as np
@@ -65,7 +68,8 @@ print(arr)
 print(arr.dtype)
 For i, u, f, S and U we can define size as well.
 '''
-Example
+Example:
+
 Create an array with data type 4 bytes integer:
 '''
 import numpy as np
@@ -80,7 +84,8 @@ If a type is given in which elements can't be casted then NumPy will raise a Val
 
 ValueError: In Python ValueError is raised when the type of passed argument to a function is unexpected/incorrect.
 
-Example
+Example:
+
 A non integer string like 'a' can not be converted to integer (will raise an error):
 '''
 import numpy as np
