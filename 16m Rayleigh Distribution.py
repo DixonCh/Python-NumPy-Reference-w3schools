@@ -1,6 +1,6 @@
 '''
-Rayleigh Distribution
-Rayleigh Distribution
+Rayleigh Distribution:
+
 Rayleigh distribution is used in signal processing.
 
 It has two parameters:
