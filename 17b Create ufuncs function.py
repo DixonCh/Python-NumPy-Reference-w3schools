@@ -24,12 +24,14 @@ myadd = np.frompyfunc(myadd, 2, 1)
 print(myadd([1, 2, 3, 4], [5, 6, 7, 8]))
 
 '''
-Check if a Function is a ufunc
+Check if a Function is a ufunc:
+
 Check the type of a function to check if it is a ufunc or not.
 
 A ufunc should return <class 'numpy.ufunc'>.
 
-Example
+Example:
+
 Check if a function is a ufunc:
 '''
 import numpy as np
