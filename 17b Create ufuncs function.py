@@ -1,5 +1,6 @@
 '''Create Your Own ufunc
-How To Create Your Own ufunc
+How To Create Your Own ufunc:
+
 To create you own ufunc, you have to define a function, like you do with normal functions in Python, then you add it to your NumPy 
 ufunc library with the frompyfunc() method.
 
@@ -9,7 +10,8 @@ function - the name of the function.
 inputs - the number of input arguments (arrays).
 outputs - the number of output arrays.
 '''
-Example
+Example:
+
 Create your own ufunc for addition:
 '''
 import numpy as np
