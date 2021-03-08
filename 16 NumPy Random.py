@@ -108,7 +108,8 @@ The choice() method allows you to generate a random value based on an array of v
 
 The choice() method takes an array as a parameter and randomly returns one of the values.
 
-Example
+Example:
+
 Return one of the values in an array:
 '''
 from numpy import random
@@ -121,7 +122,8 @@ The choice() method also allows you to return an array of values.
 
 Add a size parameter to specify the shape of the array.
 
-Example
+Example:
+
 Generate a 2-D array that consists of the values in the array parameter (3, 5, 7, and 9):
 '''
 from numpy import random
