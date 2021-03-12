@@ -74,7 +74,8 @@ Example explained: The number 7 should be inserted on index 1 to remain the sort
 
 The method starts the search from the left and returns the first index where the number 7 is no longer larger than the next value.
 
-Search From the Right Side
+Search From the Right Side:
+
 By default the left most index is returned, but we can give side='right' to return the right most index instead.
 
 Example:
