@@ -28,7 +28,9 @@ print(x)
 The copy SHOULD NOT be affected by the changes made to the original array.
 
 VIEW:
-Example
+
+Example:
+
 Make a view, change the original array, and display both arrays:
 '''
 
@@ -61,7 +63,8 @@ print(x)
 '''
 The original array SHOULD be affected by the changes made to the view.
 
-Check if Array Owns it's Data
+Check if Array Owns it's Data:
+
 As mentioned above, copies owns the data, and views does not own the data, but how can we check this?
 
 Every NumPy array has the attribute base that returns None if the array owns the data.
