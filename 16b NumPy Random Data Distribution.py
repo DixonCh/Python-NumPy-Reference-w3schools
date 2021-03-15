@@ -1,6 +1,7 @@
 '''Random Data Distribution
 
 What is Data Distribution?
+
 Data Distribution is a list of all possible values, and how often each value occurs.
 
 Such lists are important when working with statistics and data science.
@@ -43,7 +44,8 @@ Even if you run the example above 100 times, the value 9 will never occur.
 
 You can return arrays of any shape and size by specifying the shape in the size parameter.
 
-Example
+Example:
+
 Same example as above, but return a 2-D array with 3 rows, each containing 5 values.
 '''
 from numpy import random
