@@ -49,7 +49,5 @@ import seaborn as sns
 sns.distplot(random.normal(size=1000), hist=False)
 
 plt.show()
-Result
-
 
 Note: The curve of a Normal Distribution is also known as the Bell Curve because of the bell-shaped curve.
