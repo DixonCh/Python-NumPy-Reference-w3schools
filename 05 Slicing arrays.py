@@ -45,10 +45,12 @@ arr = np.array([1, 2, 3, 4, 5, 6, 7])
 
 print(arr[:4])
 '''
-Negative Slicing
+Negative Slicing:
+
 Use the minus operator to refer to an index from the end:
 
-Example
+Example:
+
 Slice from the index 3 from the end to index 1 from the end:
 '''
 
