@@ -87,7 +87,9 @@ for x in arr:
       print(z)
       '''
 Iterating Arrays Using nditer()
-The function nditer() is a helping function that can be used from very basic to very advanced iterations. It solves some basic issues which we face in iteration, lets go through it with examples.
+
+The function nditer() is a helping function that can be used from very basic to very advanced iterations. It solves some basic issues which we face in iteration, 
+lets go through it with examples.
 
 Iterating on Each Scalar Element:
 
@@ -107,7 +109,8 @@ for x in np.nditer(arr):
 Iterating Array With Different Data Types
 We can use op_dtypes argument and pass it the expected datatype to change the datatype of elements while iterating.
 
-NumPy does not change the data type of the element in-place (where the element is in array) so it needs some other space to perform this action, that extra space is called buffer, and in order to enable it in nditer() we pass flags=['buffered'].
+NumPy does not change the data type of the element in-place (where the element is in array) so it needs some other space to perform this action, that extra space is called
+buffer, and in order to enable it in nditer() we pass flags=['buffered'].
 
 Example
 Iterate through the array as a string:
