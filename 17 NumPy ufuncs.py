@@ -1,9 +1,12 @@
 '''
 NumPy ufuncs
+
 What are ufuncs?
+
 ufuncs stands for "Universal Functions" and they are NumPy functions that operates on the ndarray object.
 
 Why use ufuncs?
+
 ufuncs are used to implement vectorization in NumPy which is way faster than iterating over elements.
 
 They also provide broadcasting and additional methods like reduce, accumulate etc. that are very helpful for computation.
