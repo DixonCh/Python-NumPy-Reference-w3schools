@@ -30,7 +30,8 @@ list 2: [4, 5, 6, 7]
 '''
 One way of doing it is to iterate over both of the lists and then sum each elements.
 
-Example
+Example:
+
 Without ufunc, we can use Python's built-in zip() method:
 '''
 x = [1, 2, 3, 4]
@@ -44,7 +45,8 @@ print(z)
 '''
 NumPy has a ufunc for this, called add(x, y) that will produce the same result.
 
-Example
+Example:
+
 With ufunc, we can use the add() function:
 '''
 
