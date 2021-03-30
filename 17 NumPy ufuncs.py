@@ -20,6 +20,7 @@ dtype defining the return type of elements.
 out output array where the return value should be copied.
 
 What is Vectorization?
+
 Converting iterative statements into a vector based operation is called vectorization.
 
 It is faster as modern CPUs are optimized for such operations.
