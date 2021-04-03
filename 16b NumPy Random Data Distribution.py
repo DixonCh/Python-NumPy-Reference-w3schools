@@ -44,7 +44,7 @@ Even if you run the example above 100 times, the value 9 will never occur.
 
 You can return arrays of any shape and size by specifying the shape in the size parameter.
 
-Example:
+Example is shown below:
 
 Same example as above, but return a 2-D array with 3 rows, each containing 5 values.
 '''
