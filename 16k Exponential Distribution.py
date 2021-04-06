@@ -20,7 +20,8 @@ print(x)
 '''
 Visualization of Exponential Distribution
 
-Example
+Example:
+
 '''
 from numpy import random
 import matplotlib.pyplot as plt
