@@ -6,7 +6,8 @@ A permutation refers to an arrangement of elements. e.g. [3, 2, 1] is a permutat
 
 The NumPy Random module provides two methods for this: shuffle() and permutation().
 
-Shuffling Arrays
+Shuffling Arrays:
+  
 Shuffle means changing arrangement of elements in-place. i.e. in the array itself.
 
 Example:
@@ -23,8 +24,10 @@ random.shuffle(arr)
 print(arr)
 The shuffle() method makes changes to the original array.
 
-Generating Permutation of Arrays
-Example
+Generating Permutation of Arrays:
+  
+Example:
+  
 Generate a random permutation of elements of following array:
 
 from numpy import random
