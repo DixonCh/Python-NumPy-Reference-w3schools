@@ -99,7 +99,8 @@ In addition, you can specify which axis you want to do the split around.
 
 The example below also returns three 2-D arrays, but they are split along the row (axis=1).
 
-Example
+Example:
+
 Split the 2-D array into three 2-D arrays along rows.
 '''
 import numpy as np
