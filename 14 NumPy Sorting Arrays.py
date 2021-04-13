@@ -17,8 +17,10 @@ import numpy as np
 arr = np.array([3, 2, 0, 1])
 
 print(np.sort(arr))
+
 '''
-Note: This method returns a copy of the array, leaving the original array unchanged.
+Note: 
+This method returns a copy of the array, leaving the original array unchanged.
 
 You can also sort arrays of strings, or any other data type:
 
