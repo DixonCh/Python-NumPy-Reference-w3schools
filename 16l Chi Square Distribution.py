@@ -18,12 +18,14 @@ from numpy import random
 x = random.chisquare(df=2, size=(2, 3))
 
 print(x)
+
 '''
 Visualization of Chi Square Distribution:
 
 Example:
 
 '''
+
 from numpy import random
 import matplotlib.pyplot as plt
 import seaborn as sns
