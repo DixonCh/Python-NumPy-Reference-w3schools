@@ -23,6 +23,7 @@ x = [True, False, True, False]
 newarr = arr[x]
 
 print(newarr)
+
 The example above will return [41, 43], why?
 
 Because the new filter contains only the values where the filter array had the value True, in this case, index 0 and 2.
@@ -86,7 +87,8 @@ The above example is quite a common task in NumPy and NumPy provides a nice way 
 
 We can directly substitute the array instead of the iterable variable in our condition and it will work just as we expect it to.
 
-Example
+Example:
+  
 Create a filter array that will return only values higher than 42:
 
 import numpy as np
