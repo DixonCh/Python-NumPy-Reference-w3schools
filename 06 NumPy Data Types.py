@@ -80,6 +80,7 @@ print(arr)
 print(arr.dtype)
 '''
 What if a Value Can Not Be Converted?
+
 If a type is given in which elements can't be casted then NumPy will raise a ValueError.
 
 ValueError: In Python ValueError is raised when the type of passed argument to a function is unexpected/incorrect.
@@ -99,7 +100,8 @@ The astype() function creates a copy of the array, and allows you to specify the
 
 The data type can be specified using a string, like 'f' for float, 'i' for integer etc. or you can use the data type directly like float for float and int for integer.
 
-Example
+Example:
+
 Change data type from float to integer by using 'i' as parameter value:
 '''
 import numpy as np
@@ -111,7 +113,8 @@ newarr = arr.astype('i')
 print(newarr)
 print(newarr.dtype)
 '''
-Example
+Example:
+
 Change data type from float to integer by using int as parameter value:
 '''
 import numpy as np
