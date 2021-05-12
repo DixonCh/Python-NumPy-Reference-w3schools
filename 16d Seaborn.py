@@ -17,6 +17,7 @@ Distplots:
 
 Distplot stands for distribution plot, it takes as input an array and plots a curve corresponding to the distribution of points in the 
 array.
+
 '''
 Import Matplotlib
 import the pyplot object of the Matplotlib module in your code using following code
