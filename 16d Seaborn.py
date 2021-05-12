@@ -9,6 +9,7 @@ Install Seaborn.
 If you have Python and PIP already installed on a system, install it using this command:
 
 C:\Users\Your Name>pip install seaborn
+
 If you use Jupyter, install Seaborn using this command:
 
 C:\Users\Your Name>!pip install seaborn
