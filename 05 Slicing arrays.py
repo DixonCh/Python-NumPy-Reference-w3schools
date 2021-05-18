@@ -61,6 +61,7 @@ arr = np.array([1, 2, 3, 4, 5, 6, 7])
 print(arr[-3:-1])
 '''
 STEP
+
 Use the step value to determine the step of the slicing:
 
 Example:
@@ -73,7 +74,8 @@ arr = np.array([1, 2, 3, 4, 5, 6, 7])
 
 print(arr[1:5:2])
 '''
-Example
+Example:
+
 Return every other element from the entire array:
 '''
 import numpy as np
@@ -82,7 +84,7 @@ arr = np.array([1, 2, 3, 4, 5, 6, 7])
 
 print(arr[::2])
 '''
-Slicing 2-D Arrays
+Slicing 2-D Arrays:
 Example
 From the second element, slice elements from index 1 to index 4 (not included):
 '''
