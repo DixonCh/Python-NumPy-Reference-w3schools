@@ -38,4 +38,3 @@ sns.distplot(x[x<10], kde=False)
 
 plt.show()
 '''
-Result
