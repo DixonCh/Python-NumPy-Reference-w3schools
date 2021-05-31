@@ -1,5 +1,5 @@
-Rounding Decimals
-Rounding Decimals
+Rounding Decimals:
+  
 There are primarily five ways of rounding off decimals in NumPy:
 
 truncation
