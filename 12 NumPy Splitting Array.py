@@ -113,7 +113,8 @@ print(newarr)
 '''
 An alternate solution is using hsplit() opposite of hstack()
 
-Example
+Example:
+
 Use the hsplit() method to split the 2-D array into three 2-D arrays along rows.
 '''
 import numpy as np
