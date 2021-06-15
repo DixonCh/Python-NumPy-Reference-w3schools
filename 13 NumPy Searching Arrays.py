@@ -69,6 +69,7 @@ x = np.searchsorted(arr, 7)
 
 print(x)
 '''
+
 Example explained: The number 7 should be inserted on index 1 to remain the sort order.
 
 The method starts the search from the left and returns the first index where the number 7 is no longer larger than the next value.
@@ -80,6 +81,7 @@ By default the left most index is returned, but we can give side='right' to retu
 Example:
 
 Find the indexes where the value 7 should be inserted, starting from the right:
+
 '''
 import numpy as np
 
