@@ -22,6 +22,7 @@ arr = np.array([1, 2, 3, 4, 5])
 random.shuffle(arr)
 
 print(arr)
+
 The shuffle() method makes changes to the original array.
 
 Generating Permutation of Arrays:
