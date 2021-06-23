@@ -52,6 +52,7 @@ it is taken as 0.
 
 Example:
 '''
+
 import numpy as np
 
 arr1 = np.array([1, 2, 3])
@@ -114,6 +115,7 @@ arr = np.dstack((arr1, arr2))
 
 print(arr)
 '''
+
 Output:
 
   This gives the output of 1 2 3 4 5 6
