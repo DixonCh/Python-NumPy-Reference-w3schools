@@ -19,10 +19,12 @@ x = random.rayleigh(scale=2, size=(2, 3))
 
 print(x)
 '''
+
 Visualization of Rayleigh Distribution:
 
 Example:
 '''
+
 from numpy import random
 import matplotlib.pyplot as plt
 import seaborn as sns
