@@ -4,7 +4,8 @@
 
 #Pseudo Random and True Random.
 
-#Computers work on programs, and programs are definitive set of instructions. So it means there must be some algorithm to generate a 
+#Computers work on programs, and programs are definitive set of instructions. So it means there must be some algorithm to generate a
+
 #random number as well.
 
 #If there is a program to generate random number it can be predicted, thus it is not truly random.
@@ -114,6 +115,7 @@ The choice() method takes an array as a parameter and randomly returns one of th
 Example:
 
 Return one of the values in an array:
+
 '''
 from numpy import random
 
