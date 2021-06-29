@@ -113,7 +113,8 @@ We can use op_dtypes argument and pass it the expected datatype to change the da
 NumPy does not change the data type of the element in-place (where the element is in array) so it needs some other space to perform this action, that extra space is called
 buffer, and in order to enable it in nditer() we pass flags=['buffered'].
 
-Example
+Example:
+
 Iterate through the array as a string:
 '''
 import numpy as np
@@ -124,10 +125,12 @@ for x in np.nditer(arr, flags=['buffered'], op_dtypes=['S']):
   print(x)
   
   '''
-Iterating With Different Step Size
+Iterating With Different Step Size:
+
 We can use filtering and followed by iteration.
 
-Example
+Example:
+ 
 Iterate through every scalar element of the 2D array skipping 1 element:
 '''
 import numpy as np
@@ -144,7 +147,8 @@ Enumeration means mentioning sequence number of somethings one by one.
 
 Sometimes we require corresponding index of the element while iterating, the ndenumerate() method can be used for those usecases.
 
-Example
+Example:
+
 Enumerate on following 1D arrays elements:
 '''
   
@@ -155,7 +159,8 @@ arr = np.array([1, 2, 3])
 for idx, x in np.ndenumerate(arr):
   print(idx, x)
   '''
-Example
+Example:
+
 Enumerate on following 2D array's elements:
 '''
 import numpy as np
