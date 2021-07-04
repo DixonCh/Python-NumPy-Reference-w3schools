@@ -42,6 +42,7 @@ arr[0] = 42
 
 print(arr)
 print(x)
+
 '''
 The view SHOULD be affected by the changes made to the original array.
 
