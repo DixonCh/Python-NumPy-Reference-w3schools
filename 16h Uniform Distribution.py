@@ -28,7 +28,6 @@ Visualization of Uniform Distribution:
 Example:
 
 '''
-
 from numpy import random
 import matplotlib.pyplot as plt
 import seaborn as sns
