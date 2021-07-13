@@ -35,6 +35,7 @@ print(arr)
 
 print('shape of array :', arr.shape)
 '''
+
 What does the shape tuple represent?
 
 Integers at every index tells about the number of elements the corresponding dimension has.
