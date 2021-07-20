@@ -53,7 +53,8 @@ arr = np.array(['apple', 'banana', 'cherry'])
 
 print(arr.dtype)
 '''
-Creating Arrays With a Defined Data Type
+Creating Arrays With a Defined Data Type:
+
 We use the array() function to create arrays, this function can take an optional argument: dtype that allows us to define the expected data type of the array elements:
 
 Example:
