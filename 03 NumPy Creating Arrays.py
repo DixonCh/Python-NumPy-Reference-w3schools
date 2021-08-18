@@ -86,7 +86,8 @@ arr = np.array([[1, 2, 3], [4, 5, 6]])
 
 print(arr)
 '''
-3-D arrays
+3-D arrays:
+
 An array that has 2-D arrays (matrices) as its elements is called 3-D array.
 
 These are often used to represent a 3rd order tensor.
@@ -101,9 +102,11 @@ arr = np.array([[[1, 2, 3], [4, 5, 6]], [[1, 2, 3], [4, 5, 6]]])
 print(arr)
 '''
 Check Number of Dimensions?
+
 NumPy Arrays provides the ndim attribute that returns an integer that tells us how many dimensions the array have.
 
-Example
+Example:
+
 Check how many dimensions the arrays have:
 '''
 import numpy as np
