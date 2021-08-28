@@ -85,7 +85,9 @@ arr = np.array([1, 2, 3, 4, 5, 6, 7])
 print(arr[::2])
 '''
 Slicing 2-D Arrays:
-Example
+
+Example:
+
 From the second element, slice elements from index 1 to index 4 (not included):
 '''
 import numpy as np
