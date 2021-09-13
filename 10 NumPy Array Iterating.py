@@ -116,6 +116,7 @@ buffer, and in order to enable it in nditer() we pass flags=['buffered'].
 Example:
 
 Iterate through the array as a string:
+
 '''
 import numpy as np
 
