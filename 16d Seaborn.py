@@ -35,8 +35,10 @@ sns.distplot([0, 1, 2, 3, 4, 5])
 
 plt.show()
 
-Plotting a Distplot Without the Histogram
-Example
+Plotting a Distplot Without the Histogram:
+  
+Example:
+  
 import matplotlib.pyplot as plt
 import seaborn as sns
 
