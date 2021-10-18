@@ -1,5 +1,7 @@
-NumPy Products
-Products
+NumPy Products:
+  
+Products:
+  
 To find the product of the elements in an array, use the prod() function.
 
 Example
