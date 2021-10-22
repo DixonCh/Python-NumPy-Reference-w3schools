@@ -86,6 +86,7 @@ x = arr.copy()
 y = arr.view()
 
 print(x.base)
+
 print(y.base)
 
 '''
