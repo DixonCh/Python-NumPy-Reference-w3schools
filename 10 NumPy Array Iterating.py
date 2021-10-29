@@ -106,6 +106,7 @@ arr = np.array([[[1, 2], [3, 4]], [[5, 6], [7, 8]]])
 for x in np.nditer(arr):
   print(x)
   '''
+  
 Iterating Array With Different Data Types:
 
 We can use op_dtypes argument and pass it the expected datatype to change the datatype of elements while iterating.
