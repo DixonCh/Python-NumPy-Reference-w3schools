@@ -17,6 +17,7 @@ Import NumPy:
 Once NumPy is installed, import it in your applications by adding the import keyword:
 
 import numpy
+
 Now Numpy is imported and ready to use.
 
 Example:
