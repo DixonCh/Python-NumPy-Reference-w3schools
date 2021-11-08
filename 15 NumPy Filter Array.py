@@ -80,6 +80,7 @@ for element in arr:
 newarr = arr[filter_arr]
 
 print(filter_arr)
+
 print(newarr)
 
 Creating Filter Directly From Array:
