@@ -69,6 +69,7 @@ arr = np.array([1, 2, 3, 4], dtype='S')
 
 print(arr)
 print(arr.dtype)
+
 For i, u, f, S and U we can define size as well.
 '''
 Example:
@@ -81,6 +82,7 @@ arr = np.array([1, 2, 3, 4], dtype='i4')
 
 print(arr)
 print(arr.dtype)
+
 '''
 What if a Value Can Not Be Converted?
 
@@ -96,7 +98,8 @@ import numpy as np
 
 arr = np.array(['a', '2', '3'], dtype='i')
 '''
-Converting Data Type on Existing Arrays
+Converting Data Type on Existing Arrays:
+
 The best way to change the data type of an existing array, is to make a copy of the array with the astype() method.
 
 The astype() function creates a copy of the array, and allows you to specify the data type as a parameter.
