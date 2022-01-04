@@ -28,6 +28,7 @@ If the array has less elements than required, it will adjust from the end accord
 Example:
 
 Split the array in 4 parts:
+
 '''
 import numpy as np
 
