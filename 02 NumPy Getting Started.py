@@ -37,6 +37,7 @@ alias: In Python alias are an alternate name for referring to the same thing.
 Create an alias with the as keyword while importing:
 
 import numpy as np
+
 Now the NumPy package can be referred to as np instead of numpy.
 
 Example
