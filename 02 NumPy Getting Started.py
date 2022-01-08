@@ -9,6 +9,7 @@ Install it using this command:
 '''
 
 C:\Users\Your Name>pip install numpy
+  
 If this command fails, then use a python distribution that already has NumPy installed like, Anaconda, Spyder etc.
 
 '''
