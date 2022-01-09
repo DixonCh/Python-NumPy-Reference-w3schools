@@ -6,6 +6,7 @@ Data Types in Python:
 By default Python have these data types:
 
 strings - used to represent text data, the text is given under quote marks. eg. "ABCD"
+
 integer - used to represent integer numbers. eg. -1, -2, -3
 float - used to represent real numbers. eg. 1.2, 42.42
 boolean - used to represent True or False.
@@ -81,6 +82,7 @@ import numpy as np
 arr = np.array([1, 2, 3, 4], dtype='i4')
 
 print(arr)
+
 print(arr.dtype)
 
 '''
