@@ -100,6 +100,7 @@ A non integer string like 'a' can not be converted to integer (will raise an err
 import numpy as np
 
 arr = np.array(['a', '2', '3'], dtype='i')
+
 '''
 Converting Data Type on Existing Arrays:
 
@@ -120,6 +121,7 @@ arr = np.array([1.1, 2.1, 3.1])
 newarr = arr.astype('i')
 
 print(newarr)
+
 print(newarr.dtype)
 '''
 Example:
@@ -133,6 +135,7 @@ arr = np.array([1.1, 2.1, 3.1])
 newarr = arr.astype(int)
 
 print(newarr)
+
 print(newarr.dtype)
 '''
 Example:
