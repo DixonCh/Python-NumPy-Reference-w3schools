@@ -36,6 +36,7 @@ arr = np.array(['banana', 'cherry', 'apple'])
 
 print(np.sort(arr))
 '''
+
 Example:
 
 Sort a boolean array:
