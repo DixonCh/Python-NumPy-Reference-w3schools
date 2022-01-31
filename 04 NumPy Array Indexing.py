@@ -11,6 +11,7 @@ The indexes in NumPy arrays start with 0, meaning that the first element has ind
 Example:
   
 Get the first element from the following array:
+  
 
 import numpy as np
 
