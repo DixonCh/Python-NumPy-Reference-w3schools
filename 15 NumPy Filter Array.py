@@ -44,6 +44,7 @@ arr = np.array([41, 42, 43, 44])
 filter_arr = []
 
 # go through each element in arr
+
 for element in arr:
   # if the element is higher than 42, set the value to True, otherwise False:
   if element > 42:
@@ -71,6 +72,7 @@ filter_arr = []
 # go through each element in arr
 
 for element in arr:
+  
   # if the element is completely divisble by 2, set the value to True, otherwise False
   if element % 2 == 0:
     filter_arr.append(True)
