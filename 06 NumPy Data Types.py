@@ -124,6 +124,7 @@ print(newarr)
 
 print(newarr.dtype)
 '''
+
 Example:
 
 Change data type from float to integer by using int as parameter value:
