@@ -9,6 +9,7 @@ Such lists are important when working with statistics and data science.
 The random module offer methods that returns randomly generated data distributions.
 
 Random Distribution:
+
 A random distribution is a set of random numbers that follow a certain probability density function.
 
 Probability Density Function: A function that describes a continuous probability. i.e. probability of all values in an array.
