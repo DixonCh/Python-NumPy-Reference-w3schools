@@ -39,7 +39,6 @@ arr = np.concatenate((arr1, arr2), axis=1)
 
 print(arr)
 '''
-
 Joining Arrays Using Stack Functions:
 
 Stacking is same as concatenation, the only difference is that stacking is done along a new axis.
