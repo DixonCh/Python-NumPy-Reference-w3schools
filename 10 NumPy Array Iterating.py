@@ -35,6 +35,7 @@ for x in arr:
   print(x)
   
 '''
+
 If we iterate on a n-D array it will go through n-1th dimension one by one.
 
 To return the actual values, the scalars, we have to iterate the arrays in each dimension.
