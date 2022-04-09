@@ -73,6 +73,7 @@ x=random.randint(100, size=(5))
 
 print(x)
 '''
+
 Example:
 
 Generate a 2-D array with 3 rows, each row containing 5 random integers from 0 to 100:
