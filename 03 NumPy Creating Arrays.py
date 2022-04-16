@@ -33,6 +33,7 @@ arr = np.array((1, 2, 3, 4, 5))
 
 print(arr)
 '''
+
 Dimensions in Arrays:
 
 A dimension in arrays is one level of array depth (nested arrays).
