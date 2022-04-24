@@ -56,7 +56,8 @@ arr = np.array(42)
 print(arr)
 '''
 
-1-D Arrays
+1-D Arrays:
+
 An array that has 0-D arrays as its elements is called uni-dimensional or 1-D array.
 
 These are the most common and basic arrays.
