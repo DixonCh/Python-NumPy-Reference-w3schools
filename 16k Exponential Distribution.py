@@ -9,7 +9,8 @@ scale - inverse of rate ( see lam in poisson distribution ) defaults to 1.0.
 
 size - The shape of the returned array.
 
-Example
+Example:
+
 Draw out a sample for exponential distribution with 2.0 scale with 2x3 size:
 '''
 from numpy import random
