@@ -12,7 +12,6 @@ Example:
 
 Sort the array:
 '''
-
 import numpy as np
 
 arr = np.array([3, 2, 0, 1])
