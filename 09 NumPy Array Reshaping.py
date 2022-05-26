@@ -45,7 +45,6 @@ newarr = arr.reshape(2, 3, 2)
 print(newarr)
 
 '''
-
 Can We Reshape Into any Shape?:
 
 Yes, as long as the elements required for reshaping are equal in both shapes.
