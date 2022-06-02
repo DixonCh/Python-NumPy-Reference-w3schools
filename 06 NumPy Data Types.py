@@ -10,6 +10,7 @@ strings - used to represent text data, the text is given under quote marks. eg. 
 integer - used to represent integer numbers. eg. -1, -2, -3
 float - used to represent real numbers. eg. 1.2, 42.42
 boolean - used to represent True or False.
+
 complex - used to represent a number in complex plain. eg. 1.0 + 2.0j, 1.5 + 2.5j
 
 Data Types in NumPy:
