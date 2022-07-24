@@ -126,7 +126,8 @@ print(b.ndim)
 print(c.ndim)
 print(d.ndim)
 '''
-Higher Dimensional Arrays
+Higher Dimensional Arrays:
+
 An array can have any number of dimensions.
 
 When the array is created, you can define the number of dimensions by using the ndmin argument.
