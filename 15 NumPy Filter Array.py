@@ -104,6 +104,7 @@ filter_arr = arr > 42
 newarr = arr[filter_arr]
 
 print(filter_arr)
+
 print(newarr)
 
 Example:
