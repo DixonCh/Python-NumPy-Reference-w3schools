@@ -24,7 +24,6 @@ Arrays are very frequently used in data science, where speed and resources are v
 Data Science: is a branch of computer science where we study how to store, use and analyze data for deriving information from it.
 
 Why is NumPy Faster Than Lists?
-
 NumPy arrays are stored at one continuous place in memory unlike lists, so processes can access and manipulate them very efficiently.
 
 This behavior is called locality of reference in computer science.
