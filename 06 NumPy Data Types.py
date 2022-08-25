@@ -36,7 +36,6 @@ Checking the Data Type of an Array:
 The NumPy array object has a property called dtype that returns the data type of the array:
 
 Example:
-
 Get the data type of an array object:
 '''
 
