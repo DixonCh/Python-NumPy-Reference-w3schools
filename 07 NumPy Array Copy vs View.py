@@ -33,6 +33,7 @@ The copy SHOULD NOT be affected by the changes made to the original array.
 VIEW:
 
 Example:
+
 Make a view, change the original array, and display both arrays:
 '''
 
