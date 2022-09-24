@@ -26,6 +26,7 @@ newarr = arr.reshape(4, 3)
 
 print(newarr)
 '''
+
 Reshape From 1-D to 3-D
 
 Example:
