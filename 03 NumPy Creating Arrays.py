@@ -72,6 +72,7 @@ arr = np.array([1, 2, 3, 4, 5])
 
 print(arr)
 '''
+
 2-D Arrays:
 
 An array that has 1-D arrays as its elements is called a 2-D array.
