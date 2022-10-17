@@ -94,6 +94,7 @@ Since we selected 0, we are left with the first array:
 The second number represents the second dimension, which also contains two arrays:
 [1, 2, 3]
 and:
+  
 [4, 5, 6]
 Since we selected 1, we are left with the second array:
 [4, 5, 6]
