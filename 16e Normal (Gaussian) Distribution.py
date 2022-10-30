@@ -20,7 +20,8 @@ size: The shape of the returned array.
 
 Example:
 
-Generate a random normal distribution of size 2x3:
+
+  Generate a random normal distribution of size 2x3:
 
 from numpy import random
 
