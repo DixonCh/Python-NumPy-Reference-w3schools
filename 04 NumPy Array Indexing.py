@@ -83,7 +83,9 @@ And this is why:
 
 The first number represents the first dimension, which contains two arrays:
 [[1, 2, 3], [4, 5, 6]]
+
 and:
+  
 [[7, 8, 9], [10, 11, 12]]
 
 Since we selected 0, we are left with the first array:
