@@ -46,6 +46,7 @@ Stacking is same as concatenation, the only difference is that stacking is done 
 We can concatenate two 1-D arrays along the second axis which would result in putting them one over the other, ie. stacking.
 
 We pass a sequence of arrays that we want to join to the concatenate() method along with the axis. If axis is not explicitly passed 
+
 it is taken as 0.
 
 Example:
