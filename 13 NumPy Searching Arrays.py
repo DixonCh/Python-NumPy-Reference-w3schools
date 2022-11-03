@@ -51,6 +51,7 @@ x = np.where(arr%2 == 1)
 
 print(x)
 '''
+
 Search Sorted:
 
 There is a method called searchsorted() which performs a binary search in the array, and returns the index where the specified value would be inserted to maintain the
