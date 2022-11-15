@@ -77,6 +77,7 @@ Otherwise, the base  attribute refers to the original object.
 Example:
 
 Print the value of the base attribute to check if an array owns it's data or not:
+
 '''
 
 import numpy as np
