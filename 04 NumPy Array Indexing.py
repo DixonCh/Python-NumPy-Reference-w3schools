@@ -83,6 +83,7 @@ arr[0, 1, 2] prints the value 6.
 And this is why:
 
 The first number represents the first dimension, which contains two arrays:
+  
 [[1, 2, 3], [4, 5, 6]]
 
 and:
