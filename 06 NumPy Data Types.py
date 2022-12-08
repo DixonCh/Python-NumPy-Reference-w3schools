@@ -145,6 +145,7 @@ print(newarr)
 
 print(newarr.dtype)
 '''
+
 Example:
 
 Change data type from integer to boolean:
