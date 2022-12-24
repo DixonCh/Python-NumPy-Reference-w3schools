@@ -11,6 +11,7 @@ If we iterate on a 1-D array it will go through each element one by one.
 Example:
 
 Iterate on the elements of the following 1-D array:
+
 '''
 
 import numpy as np
