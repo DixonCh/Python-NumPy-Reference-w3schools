@@ -41,6 +41,7 @@ print(newarr)
 '''
 
 Note: We also have the method split() available but it will not adjust the elements when elements are less in source array for splitting like in example above, 
+
 array_split() worked properly but split() would fail.
 
 Split Into Arrays:
@@ -89,6 +90,7 @@ Example:
 
 Split the 2-D array into three 2-D arrays.
 '''
+
 import numpy as np
 
 arr = np.array([[1, 2, 3], [4, 5, 6], [7, 8, 9], [10, 11, 12], [13, 14, 15], [16, 17, 18]])
