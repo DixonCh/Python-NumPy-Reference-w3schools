@@ -92,6 +92,7 @@ arr = np.array([[1, 2, 3], [4, 5, 6]])
 
 print(arr)
 '''
+
 3-D arrays:
 
 An array that has 2-D arrays (matrices) as its elements is called 3-D array.
