@@ -1,5 +1,5 @@
-Simple Arithmetic
-Simple Arithmetic
+Simple Arithmetic :
+
 You could use arithmetic operators + - * / directly between NumPy arrays, but this section discusses an extension of the same where we have functions that can take any array-like objects e.g. lists, tuples etc. and perform arithmetic conditionally.
 
 Arithmetic Conditionally: means that we can define conditions where the arithmetic operation should happen.
