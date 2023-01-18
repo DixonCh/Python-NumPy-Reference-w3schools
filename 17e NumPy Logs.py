@@ -1,6 +1,8 @@
 '''
 NumPy Logs
-Logs
+
+Logs : 
+
 NumPy provides functions to perform log at the base 2, e and 10.
 
 We will also explore how we can take log for any base by creating a custom ufunc.
