@@ -34,8 +34,8 @@ plt.show()
 '''
 Result
 
+Relation Between Poisson and Exponential Distribution:
 
-Relation Between Poisson and Exponential Distribution
 Poisson distribution deals with number of occurences of an event in a time period whereas exponential distribution deals with the
 time between these events.
 '''
