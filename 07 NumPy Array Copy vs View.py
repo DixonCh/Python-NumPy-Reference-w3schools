@@ -27,7 +27,6 @@ print(arr)
 
 print(x)
 '''
-
 The copy SHOULD NOT be affected by the changes made to the original array.
 
 VIEW:
