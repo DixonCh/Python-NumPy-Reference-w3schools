@@ -21,6 +21,7 @@ x = np.where(arr == 4)
 print(x)
 
 '''
+
 The example above will return a tuple: (array([3, 5, 6],)
 
 Which means that the value 4 is present at index 3, 5, and 6.
