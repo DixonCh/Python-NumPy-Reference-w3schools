@@ -95,6 +95,7 @@ for x in arr:
 Iterating Arrays Using nditer():
 
 The function nditer() is a helping function that can be used from very basic to very advanced iterations. It solves some basic issues which we face in iteration, 
+
 lets go through it with examples.
 
 Iterating on Each Scalar Element:
