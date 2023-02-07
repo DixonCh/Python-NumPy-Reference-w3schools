@@ -83,6 +83,7 @@ arr = np.hstack((arr1, arr2))
 print(arr)
 
 '''
+
 Stacking Along Columns:
 
 NumPy provides a helper function: vstack()  to stack along columns.
