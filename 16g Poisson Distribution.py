@@ -52,7 +52,7 @@ sns.distplot(random.poisson(lam=50, size=1000), hist=False, label='poisson')
 
 plt.show()
 
-Result
+Result :
 
 Difference Between Poisson and Binomial Distribution:
   
