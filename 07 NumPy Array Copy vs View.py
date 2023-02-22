@@ -96,6 +96,7 @@ print(x.base)
 print(y.base)
 
 '''
+
 The copy returns None.
 
 The view returns the original array.
