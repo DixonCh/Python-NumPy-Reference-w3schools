@@ -105,6 +105,7 @@ import numpy as np
 arr = np.array(['a', '2', '3'], dtype='i')
 
 '''
+
 Converting Data Type on Existing Arrays:
 
 The best way to change the data type of an existing array, is to make a copy of the array with the astype() method.
