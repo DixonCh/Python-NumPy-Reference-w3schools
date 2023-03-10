@@ -54,6 +54,7 @@ import numpy as np
 arr = np.array(42)
 
 print(arr)
+
 '''
 
 1-D Arrays:
