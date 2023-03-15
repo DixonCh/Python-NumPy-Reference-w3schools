@@ -65,6 +65,7 @@ arr = np.stack((arr1, arr2), axis=1)
 print(arr)
 
 '''
+
 Stacking Along Rows:
 
 NumPy provides a helper function: hstack() to stack along rows.
