@@ -27,6 +27,7 @@ Import Seaborn
 import the seaborn in your code using following code
 import seaborn as sns
 Plotting a Displot
+
 Example
 import matplotlib.pyplot as plt
 import seaborn as sns
