@@ -102,6 +102,7 @@ Example explained: The number 7 should be inserted on index 2 to remain the sort
 The method starts the search from the right and returns the first index where the number 7 is no longer less than the next value.
 
 Multiple Values:
+
 To search for more than one value, use an array with the specified values.
 
 Example:
