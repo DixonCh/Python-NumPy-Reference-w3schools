@@ -1,4 +1,5 @@
 Normal (Gaussian) Distribution:
+  
 
 Normal Distribution:
 
