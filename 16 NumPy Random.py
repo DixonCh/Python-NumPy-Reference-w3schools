@@ -94,6 +94,7 @@ Example:
 
 Generate a 1-D array containing 5 random floats:
 '''
+
 from numpy import random
 
 x = random.rand(5)
