@@ -2,6 +2,7 @@ Poisson Distribution:
 
 Poisson Distribution is a Discrete Distribution.
 
+
 It estimates how many times an event can happen in a specified time. e.g. If someone eats twice a day what is probability he will eat thrice?
 
 It has two parameters:
