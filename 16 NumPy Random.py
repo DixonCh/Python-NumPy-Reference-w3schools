@@ -25,6 +25,7 @@ In this tutorial we will be using pseudo random numbers.
 
 Generate Random Number:
 
+
 NumPy offers the random module to work with random numbers.
 
 Example:
