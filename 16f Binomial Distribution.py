@@ -40,7 +40,8 @@ plt.show()
 
 Difference Between Normal and Binomial Distribution:
   
-The main difference is that normal distribution is continous whereas binomial is discrete, but if there are enough data points it will be quite similar to normal distribution
+The main difference is that normal distribution is continous whereas binomial is discrete, but if there are enough data points it will be quite similar to normal 
+distribution
 
 with certain loc and scale.
 
