@@ -112,6 +112,7 @@ x = random.rand(3, 5)
 
 print(x)
 '''
+
 Generate Random Number From Array:
 
 The choice() method allows you to generate a random value based on an array of values.
