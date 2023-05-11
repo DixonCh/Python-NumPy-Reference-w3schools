@@ -6,6 +6,7 @@ Seaborn is a library that uses Matplotlib underneath to plot graphs. It will be 
 
 Install Seaborn.
 
+
 If you have Python and PIP already installed on a system, install it using this command:
 
 C:\Users\Your Name>pip install seaborn
