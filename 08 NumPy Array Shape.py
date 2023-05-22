@@ -11,7 +11,6 @@ NumPy arrays have an attribute called shape that returns a tuple with each index
 
 Example:
 
-
 Print the shape of a 2-D array:
 '''
 
