@@ -56,9 +56,8 @@ print(x)
 
 Search Sorted:
 
-There is a method called searchsorted() which performs a binary search in the array, and returns the index where the specified value would be inserted to maintain the
-
-search order.
+There is a method called searchsorted() which performs a binary search in the array, and returns the index where the specified value would be inserted to maintain
+the search order.
 
 The searchsorted() method is assumed to be used on sorted arrays.
 
