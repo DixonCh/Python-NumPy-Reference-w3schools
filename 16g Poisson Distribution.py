@@ -38,6 +38,7 @@ Difference Between Normal and Poisson Distribution:
   
 Normal distribution is continous whereas poisson is discrete.
 
+
 But we can see that similar to binomial for a large enough poisson distribution it will become similar to normal distribution with certain std dev and mean.
 
 Example:
