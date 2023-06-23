@@ -4,7 +4,6 @@ Sorting Arrays:
 
 Sorting means putting elements in a ordered sequence.
 
-
 Ordered sequence is any sequence that has an order corresponding to elements, like numeric or alphabetical, ascending or descending.
 
 The NumPy ndarray object has a function called sort(), that will sort a specified array.
