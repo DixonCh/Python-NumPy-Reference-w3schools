@@ -45,6 +45,7 @@ Example:
 Sort a boolean array:
 '''
 
+
 import numpy as np
 
 arr = np.array([True, False, True])
