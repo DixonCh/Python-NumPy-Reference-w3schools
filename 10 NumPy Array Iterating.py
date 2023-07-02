@@ -21,7 +21,6 @@ for x in arr:
   
   print(x)
   '''
-  
 Iterating 2-D Arrays:
 
 In a 2-D array it will go through all the rows.
