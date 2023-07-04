@@ -25,7 +25,6 @@ arr = np.array([1, 2, 3, 4, 5, 6, 7])
 print(arr[1:5])
 
 '''
-
 Note: The result includes the start index, but excludes the end index.
 
 Example:
