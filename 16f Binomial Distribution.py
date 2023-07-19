@@ -17,7 +17,6 @@ Discrete Distribution:The distribution is defined at separate set of events, e.g
 is continuous as it can be 170, 170.1, 170.11 and so on.
 
 Example:
-  
 Given 10 trials for coin toss generate 10 data points:
 
 from numpy import random
