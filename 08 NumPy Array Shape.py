@@ -25,7 +25,6 @@ The example above returns (2, 4), which means that the array has 2 dimensions, a
 
 Example:
 
-
 Create an array with 5 dimensions using ndmin using a vector with values 1,2,3,4 and verify that last dimension has value 4:
 
 '''
