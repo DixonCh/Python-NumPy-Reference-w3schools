@@ -31,7 +31,6 @@ Because the new filter contains only the values where the filter array had the v
 Creating the Filter Array:
   
 In the example above we hard-coded the True and False values, but the common use is to create a filter array based on conditions.
-
 Example:
   
 Create a filter array that will return only values higher than 42:
