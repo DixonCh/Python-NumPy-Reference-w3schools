@@ -38,7 +38,6 @@ x = random.choice([3, 5, 7, 9], p=[0.1, 0.3, 0.6, 0.0], size=(100))
 
 print(x)
 '''
-
 The sum of all probability numbers should be 1.
 
 Even if you run the example above 100 times, the value 9 will never occur.
