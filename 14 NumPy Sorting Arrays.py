@@ -25,7 +25,6 @@ Note:
 
 This method returns a copy of the array, leaving the original array unchanged.
 
-
 You can also sort arrays of strings, or any other data type:
 
 Example:
