@@ -35,7 +35,6 @@ sns.distplot(random.logistic(size=1000), hist=False)
 plt.show()
 Result
 
-
 Difference Between Logistic and Normal Distribution:
   
 Both distributions are near identical, but logistic distribution has more area under the tails. ie. It representage more possibility of occurence of an events further away
