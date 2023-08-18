@@ -20,7 +20,6 @@ newarr = np.array_split(arr, 3)
 
 print(newarr)
 '''
-
 Note: The return value is an array containing three arrays.
 
 If the array has less elements than required, it will adjust from the end accordingly.
