@@ -19,7 +19,6 @@ scale: (Standard Deviation) how flat the graph distribution should be.
 
 size: The shape of the returned array.
 
-  
 Example:
 
 Generate a random normal distribution of size 2x3:
