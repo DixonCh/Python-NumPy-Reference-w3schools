@@ -37,7 +37,6 @@ print(arr)
 print('shape of array :', arr.shape)
 
 '''
-
 What does the shape tuple represent?
 
 
