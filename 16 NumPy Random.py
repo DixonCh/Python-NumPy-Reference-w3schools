@@ -53,7 +53,6 @@ x = random.rand()
 
 print(x)
 '''
-
 Generate Random Array:
 
 In NumPy we work with arrays, and you can use the two methods from the above examples to make random arrays.
