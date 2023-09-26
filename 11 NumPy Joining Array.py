@@ -23,7 +23,6 @@ arr = np.concatenate((arr1, arr2))
 
 print(arr)
 '''
-
 Example:
 
 Join two 2-D arrays along rows (axis=1):
