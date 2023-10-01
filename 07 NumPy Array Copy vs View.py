@@ -10,7 +10,6 @@ The copy owns the data and any changes made to the copy will not affect original
 The view does not own the data and any changes made to the view will affect the original array, and any changes made to the original array will affect the view.
 
 COPY:
-
 Example:
 
 Make a copy, change the original array, and display both arrays:
