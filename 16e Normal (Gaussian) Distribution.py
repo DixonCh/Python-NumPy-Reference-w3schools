@@ -1,6 +1,5 @@
 Normal (Gaussian) Distribution:
   
-
 Normal Distribution:
 
 The Normal Distribution is one of the most important distributions.
