@@ -110,7 +110,6 @@ Since we selected 2, we end up with the third value:
 Negative Indexing :
   
 Use negative indexing to access an array from the end.
-
 Example
 Print the last element from the 2nd dim:
 
