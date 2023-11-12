@@ -54,7 +54,6 @@ sns.distplot(random.poisson(lam=50, size=1000), hist=False, label='poisson')
 plt.show()
 
 Result :
-
 Difference Between Poisson and Binomial Distribution:
   
 The difference is very subtle it is that, binomial distribution is for discrete trials, whereas poisson distribution is for continuous trials.
