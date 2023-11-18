@@ -97,7 +97,6 @@ newarr = np.array_split(arr, 3)
 
 print(newarr)
 '''
-
 The example above returns three 2-D arrays.
 
 In addition, you can specify which axis you want to do the split around.
