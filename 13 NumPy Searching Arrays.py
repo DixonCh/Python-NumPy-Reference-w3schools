@@ -38,7 +38,6 @@ x = np.where(arr%2 == 0)
 
 print(x)
 '''
-
 Example:
 
 Find the indexes where the values are odd:
