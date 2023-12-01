@@ -28,7 +28,6 @@ print(x)
 Visualization of Binomial Distribution:
 
 Example:
-
 from numpy import random
 import matplotlib.pyplot as plt
 import seaborn as sns
