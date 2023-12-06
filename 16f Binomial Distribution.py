@@ -44,7 +44,6 @@ distribution
 with certain loc and scale.
 
 Example:
-
 from numpy import random
 import matplotlib.pyplot as plt
 import seaborn as sns
