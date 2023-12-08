@@ -103,7 +103,6 @@ newarr = arr.reshape(2, 2, -1)
 
 print(newarr)
 '''
-
 Note: We can not pass -1 to more than one dimension.
 
 Flattening the arrays:
