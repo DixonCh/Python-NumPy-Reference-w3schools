@@ -103,7 +103,6 @@ NumPy provides a helper function: dstack() to stack along height, which is the s
 
 Example:
 '''
-
 import numpy as np
 
 arr1 = np.array([1, 2, 3])
