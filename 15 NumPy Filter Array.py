@@ -107,8 +107,7 @@ print(filter_arr)
 print(newarr)
 
 Example:
-Create a filter array that will return only even elements from the original array:
-
+Create a filter array that will return only even elements from the original array.
 import numpy as np
 
 arr = np.array([1, 2, 3, 4, 5, 6, 7])
