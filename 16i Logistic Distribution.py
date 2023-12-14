@@ -43,7 +43,6 @@ from mean.
 For higher value of scale (standard deviation) the normal and logistic distributions are near identical apart from the peak.
 
 Example:
-  
 from numpy import random
 import matplotlib.pyplot as plt
 import seaborn as sns
