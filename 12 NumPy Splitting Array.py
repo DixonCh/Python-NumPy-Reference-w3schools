@@ -116,7 +116,6 @@ newarr = np.array_split(arr, 3, axis=1)
 
 print(newarr)
 '''
-
 An alternate solution is using hsplit() opposite of hstack()
 
 Example:
