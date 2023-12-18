@@ -28,7 +28,6 @@ The shuffle() method makes changes to the original array.
 Generating Permutation of Arrays:
   
 Example:
-  
 Generate a random permutation of elements of following array:
 
 from numpy import random
