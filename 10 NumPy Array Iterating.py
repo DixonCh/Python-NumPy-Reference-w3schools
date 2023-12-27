@@ -26,7 +26,6 @@ Iterating 2-D Arrays:
 In a 2-D array it will go through all the rows.
 
 Example:
-
 Iterate on the elements of the following 2-D array:
 '''
 import numpy as np
