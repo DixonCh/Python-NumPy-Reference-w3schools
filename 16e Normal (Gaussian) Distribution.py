@@ -41,7 +41,6 @@ print(x)
 Visualization of Normal Distribution:
   
 Example:
-  
 from numpy import random
 
 import matplotlib.pyplot as plt
