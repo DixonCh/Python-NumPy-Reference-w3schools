@@ -36,7 +36,6 @@ newarr = np.array_split(arr, 4)
 
 print(newarr)
 '''
-
 Note: We also have the method split() available but it will not adjust the elements when elements are less in source array for splitting like in example above, 
 
 array_split() worked properly but split() would fail.
