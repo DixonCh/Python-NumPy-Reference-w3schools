@@ -50,7 +50,6 @@ Sorting a 2-D Array:
 If you use the sort() method on a 2-D array, both arrays will be sorted:
 
 Example:
-
 Sort a 2-D array:
 '''
 import numpy as np
