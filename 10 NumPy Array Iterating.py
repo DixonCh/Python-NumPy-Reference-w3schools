@@ -58,7 +58,6 @@ Iterating 3-D Arrays:
 In a 3-D array it will go through all the 2-D arrays.
 
 Example:
-
 Iterate on the elements of the following 3-D array:
 '''
   
