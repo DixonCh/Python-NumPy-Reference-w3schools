@@ -66,7 +66,6 @@ import numpy as np
 arr = np.array([1, 2, 3, 4, 5, 6, 7])
 
 # Create an empty list
-
 filter_arr = []
 
 # go through each element in arr
