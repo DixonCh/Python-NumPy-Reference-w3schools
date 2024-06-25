@@ -94,7 +94,6 @@ arr = np.vstack((arr1, arr2))
 
 print(arr)
 '''
-
 Stacking Along Height (depth):
 
 NumPy provides a helper function: dstack() to stack along height, which is the same as depth.
