@@ -16,7 +16,6 @@ Example:
 Convert the following 1-D array with 12 elements into a 2-D array.
 
 The outermost dimension will have 4 arrays, each with 3 elements:
-
 '''
 import numpy as np
 
