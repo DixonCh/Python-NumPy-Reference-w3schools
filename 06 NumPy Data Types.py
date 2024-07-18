@@ -2,7 +2,6 @@
 NumPy Data Types:
 
 Data Types in Python:
-
 By default Python have these data types:
 
 strings - used to represent text data, the text is given under quote marks. eg. "ABCD"
