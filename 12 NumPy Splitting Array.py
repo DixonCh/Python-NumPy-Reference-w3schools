@@ -65,7 +65,6 @@ print(newarr[2])
 Splitting 2-D Arrays:
 
 Use the same syntax when splitting 2-D arrays.
-
 Use the array_split() method, pass in the array you want to split and the number of splits you want to do.
 
 Example:
