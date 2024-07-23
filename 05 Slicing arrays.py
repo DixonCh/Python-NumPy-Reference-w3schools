@@ -26,7 +26,6 @@ print(arr[1:5])
 Note: The result includes the start index, but excludes the end index.
 
 Example:
-
 Slice elements from index 4 to the end of the array:
 
 '''
