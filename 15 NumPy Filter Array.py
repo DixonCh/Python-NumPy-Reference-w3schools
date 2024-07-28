@@ -13,7 +13,6 @@ If the value at an index is True that element is contained in the filtered array
 Example:
   
 Create an array from the elements on index 0 and 2:
-
 import numpy as np
 
 arr = np.array([41, 42, 43, 44])
