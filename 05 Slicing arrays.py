@@ -62,7 +62,6 @@ print(arr[-3:-1])
 '''
 
 STEP:
-
 Use the step value to determine the step of the slicing:
 
 Example:
