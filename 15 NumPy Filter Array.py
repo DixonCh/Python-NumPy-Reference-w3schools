@@ -11,7 +11,6 @@ A boolean index list is a list of booleans corresponding to indexes in the array
 If the value at an index is True that element is contained in the filtered array, if the value at that index is False that element is excluded from the filtered array.
 
 Example:
-  
 Create an array from the elements on index 0 and 2:
 import numpy as np
 
