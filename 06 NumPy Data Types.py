@@ -91,7 +91,6 @@ If a type is given in which elements can't be casted then NumPy will raise a Val
 ValueError: In Python ValueError is raised when the type of passed argument to a function is unexpected/incorrect.
 
 Example:
-
 A non integer string like 'a' can not be converted to integer (will raise an error):
 '''
 
