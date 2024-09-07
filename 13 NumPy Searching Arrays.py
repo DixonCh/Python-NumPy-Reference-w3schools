@@ -10,7 +10,6 @@ To search an array, use the where() method.
 Example:
 
 Find the indexes where the value is 4:
-
 '''
 import numpy as np
 
