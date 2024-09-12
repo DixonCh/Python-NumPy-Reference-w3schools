@@ -8,7 +8,6 @@ Ordered sequence is any sequence that has an order corresponding to elements, li
 The NumPy ndarray object has a function called sort(), that will sort a specified array.
 
 Example:
-
 Sort the array:
 '''
 
