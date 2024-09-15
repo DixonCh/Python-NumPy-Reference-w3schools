@@ -27,7 +27,6 @@ print(newarr)
 Reshape From 1-D to 3-D
 
 Example:
-
 Convert the following 1-D array with 12 elements into a 3-D array.
 
 The outermost dimension will have 2 arrays that contains 3 arrays, each with 2 elements:
