@@ -130,7 +130,6 @@ Iterating With Different Step Size:
 We can use filtering and followed by iteration.
 
 Example:
- 
 Iterate through every scalar element of the 2D array skipping 1 element:
 '''
   
