@@ -11,6 +11,7 @@ lam - rate or known number of occurences e.g. 2 for above problem.
 size - The shape of the returned array.
 
 Example:
+
 Generate a random 1x10 distribution for occurence 2:
 
 from numpy import random
