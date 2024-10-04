@@ -40,6 +40,7 @@ print(x)
 The sum of all probability numbers should be 1.
 
 Even if you run the example above 100 times, the value 9 will never occur.
+
 You can return arrays of any shape and size by specifying the shape in the size parameter.
 
 Example is shown below:
