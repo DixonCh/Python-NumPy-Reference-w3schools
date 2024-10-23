@@ -4,7 +4,6 @@ Uniform Distribution:
 Used to describe probability where every event has equal chances of occuring.
 
 E.g. Generation of random numbers.
-
 It has three parameters:
 
 a - lower bound - default 0 .0.
