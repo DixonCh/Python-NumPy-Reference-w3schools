@@ -48,6 +48,7 @@ The return value of the array_split() method is an array containing each of the 
 If you split an array into 3 arrays, you can access them from the result just like any array element:
 
 Example:
+
 Access the splitted arrays:
 '''
 import numpy as np
