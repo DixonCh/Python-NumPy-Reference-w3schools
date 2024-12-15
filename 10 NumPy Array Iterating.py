@@ -2,6 +2,7 @@
 
 Iterating Arrays:
 
+
 Iterating means going through elements one by one.
 
 As we deal with multi-dimensional arrays in numpy, we can do this using basic for loop of python.
