@@ -3,6 +3,7 @@
 #Random number does NOT mean a different number every time. Random means something that can not be predicted logically.
 
 #Pseudo Random and True Random.
+
 #Computers work on programs, and programs are definitive set of instructions. So it means there must be some algorithm to generate a
 
 #random number as well.
