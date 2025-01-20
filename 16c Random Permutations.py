@@ -11,6 +11,7 @@ Shuffling Arrays:
 Shuffle means changing arrangement of elements in-place. i.e. in the array itself.
 
 Example:
+
 Randomly shuffle elements of following array:
   
 from numpy import random
