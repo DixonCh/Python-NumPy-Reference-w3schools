@@ -7,7 +7,6 @@ We pass slice instead of index like this: [start:end].
 
 We can also define the step, like this: [start:end:step].
 
-
 If we don't pass start its considered 0
 
 If we don't pass end its considered length of array in that dimension
@@ -27,6 +26,7 @@ print(arr[1:5])
 Note: The result includes the start index, but excludes the end index.
 
 Example:
+
 Slice elements from index 4 to the end of the array:
 
 '''
