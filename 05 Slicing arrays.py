@@ -12,6 +12,7 @@ If we don't pass start its considered 0
 If we don't pass end its considered length of array in that dimension
 
 If we don't pass step its considered 1
+
 Example:
 
 Slice elements from index 1 to index 5 from the following array:
