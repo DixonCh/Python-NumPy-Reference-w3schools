@@ -56,6 +56,7 @@ import numpy as np
 arr = np.array(['apple', 'banana', 'cherry'])
 
 print(arr.dtype)
+
 '''
 Creating Arrays With a Defined Data Type:
 
