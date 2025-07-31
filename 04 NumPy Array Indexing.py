@@ -60,6 +60,7 @@ import numpy as np
 arr = np.array([[1,2,3,4,5], [6,7,8,9,10]])
 
 print('5th element on 2nd dim: ', arr[1, 4])
+
 Access 3-D Arrays:
   
 To access elements from 3-D arrays we can use comma separated integers representing the dimensions and the index of the element.
