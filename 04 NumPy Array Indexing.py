@@ -9,7 +9,6 @@ You can access an array element by referring to its index number.
 The indexes in NumPy arrays start with 0, meaning that the first element has index 0, and the second has index 1 etc.
 
 Example: 
-
 Get the first element from the following array:
   
 import numpy as np
@@ -118,3 +117,4 @@ import numpy as np
 arr = np.array([[1,2,3,4,5], [6,7,8,9,10]])
 
 print('Last element from 2nd dim: ', arr[1, -1])
+
