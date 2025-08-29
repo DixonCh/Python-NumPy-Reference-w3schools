@@ -27,7 +27,6 @@ Example:
 
 Create an array with 5 dimensions using ndmin using a vector with values 1,2,3,4 and verify that last dimension has value 4:
 '''
-
 import numpy as np
 
 arr = np.array([1, 2, 3, 4], ndmin=5)
@@ -44,4 +43,5 @@ Integers at every index tells about the number of elements the corresponding dim
 In the example above at index-4 we have value 4, so we can say that 5th ( 4 + 1 th) dimension has 4 elements.
 
 '''
+
 
