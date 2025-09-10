@@ -51,6 +51,7 @@ x = np.where(arr%2 == 1)
 
 print(x)
 '''
+
 Search Sorted:
 
 There is a method called searchsorted() which performs a binary search in the array, and returns the index where the specified value would be inserted to maintain
@@ -115,4 +116,5 @@ x = np.searchsorted(arr, [2, 4, 6])
 print(x)
 
 #The return value is an array: [1 2 3] containing the three indexes where 2, 4, 6 would be inserted in the original array to maintain the order.
+
 
