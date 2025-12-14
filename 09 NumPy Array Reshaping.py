@@ -17,7 +17,6 @@ Convert the following 1-D array with 12 elements into a 2-D array.
 
 The outermost dimension will have 4 arrays, each with 3 elements:
 '''
-
 import numpy as np
 
 arr = np.array([1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12])
@@ -125,3 +124,4 @@ print(newarr)
 #Note: There are a lot of functions for changing the shapes of arrays in numpy flatten, ravel and also for rearranging the elements rot90, flip, fliplr, flipud etc. 
 
 #These fall under Intermediate to Advanced section of numpy.
+
