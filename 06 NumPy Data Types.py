@@ -47,7 +47,6 @@ print(arr.dtype)
 '''
 
 Example:
-
 Get the data type of an array containing strings:
 '''
 
@@ -159,4 +158,5 @@ newarr = arr.astype(bool)
 
 print(newarr)
 print(newarr.dtype)
+
 
