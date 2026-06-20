@@ -117,6 +117,7 @@ Example:
 
 Check how many dimensions the arrays have:
 '''
+
 import numpy as np
 
 a = np.array(42)
